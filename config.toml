@@ -10,8 +10,14 @@ paginate = 5
 #googleAnalytics = "UA-123-45"
 #disqusShortname = "XYW"
 
+enableRobotsTXT = true
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
 [permalinks]
-  post = "/:year/:month/:title/"
+  posts = "/:year/:month/:day/:title/"
   page = "/:slug/"
 
 [[menu.sidebar]]
@@ -31,16 +37,16 @@ paginate = 5
 #
 [params]
   # Site author
-  author = "Your Name"
+  author = "Sean Boots"
 
   # Description/subtitle for homepage (can be Markdown)
   description = "A simple Hugo theme based on the Bootstrap v4 blog example."
 
   # Show header (default: true)
-  #header_visible = true
+  header_visible = true
 
   # Format dates with Go's time formatting
-  date_format = "Mon Jan 02, 2006"
+  date_format = "January 2, 2006"
 
   # verification string for Google Webmaster Tools
   #google_verify_meta = "BAi57DROASu4b2mkVNA_EyUsobfA7Mq8BmSg7Rn-Zp9"
@@ -59,7 +65,7 @@ paginate = 5
   #cookie_consent_info_url = "http://cookiesandyou.com"
 
   # show sharing icons on pages/posts (default: true)
-  #sharingicons = true
+  sharingicons = false
 
   # Display post summaries instead of content in list templates (default: true)
   #truncate = true

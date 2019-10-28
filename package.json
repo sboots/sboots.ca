@@ -1,0 +1,24 @@
+{
+  "name": "sboots.ca",
+  "version": "1.0.0",
+  "description": "Personal blog for Sean Boots",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.7.0",
+    "postcss-cli": "^6.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sboots/sboots.ca.git"
+  },
+  "author": "Sean Boots",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sboots/sboots.ca/issues"
+  },
+  "homepage": "https://github.com/sboots/sboots.ca#readme"
+}
