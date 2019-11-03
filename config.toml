@@ -4,9 +4,9 @@ title = "Sean Boots"
 
 theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
-paginate = 5
+paginate = 10
 # optionally override the site's footer with custom copyright text
-# copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+copyright = "&copy; Sean Boots. Licensed under a [Creative Commons license](https://creativecommons.org/licenses/by/4.0/)."
 #googleAnalytics = "UA-123-45"
 #disqusShortname = "XYW"
 
@@ -40,7 +40,7 @@ enableRobotsTXT = true
   author = "Sean Boots"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "Technology, public services, and people. But mostly people."
 
   # Show header (default: true)
   header_visible = true

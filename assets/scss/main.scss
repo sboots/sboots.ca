@@ -1,3 +1,109 @@
 body {
   background: url(/img/jo-watercolour-r3.jpg) top no-repeat;
+  background-size: 100%;
+  color: #333;
+
+  // font-family: 'Quicksand', sans-serif;
+  // font-family: 'Roboto', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.blog-title {
+  display: block;
+  margin-top: 0.7em;
+  letter-spacing: -0.02em;
+  a {
+    color: #000;
+  }
+}
+
+.blog-header {
+  border-bottom: none;
+}
+.blog-description {
+  // font-style: italic;
+  color: #333;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5 , h6, .blog-title a  {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 800;
+}
+
+article.blog-post {
+
+  h1.blog-post-title {
+    font-size: 3rem;
+    line-height: 1.1em;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.1rem;
+    letter-spacing: -0.02em;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    margin-bottom: 1.5em;
+  }
+
+  h2 {
+    font-size: 2.4rem;
+    margin-bottom: 0.5em;
+  }
+
+  h3 {
+    font-size: 1.9rem;
+    margin-bottom: 0.5em;
+  }
+
+  h4 {
+    font-size: 1.6rem;
+    margin-bottom: 0.5em;
+  }
+
+  p.blog-post-meta, p.blog-post-tags {
+    font-family: 'IBM Plex Sans', sans-serif;
+    letter-spacing: 0;
+    font-size: 1.0rem;
+    color: #333;
+
+    time {
+      display: inline-block;
+      margin-right: 0.2em;
+    }
+  }
+
+}
+
+article.blog-preview {
+  padding-left: 3rem;
+  margin-bottom: 4rem;
+
+  h2.blog-post-title {
+    font-size: 1.8rem;
+    line-height: 1.1em;
+  }
+
+  p.blog-post-meta, p.blog-post-tags {
+    font-family: 'IBM Plex Sans', sans-serif;
+    letter-spacing: 0;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+}
+
+.sidebar-module:first-child {
+  padding-top: 0;
+}
+.sidebar-module {
+  h4 {
+    font-size: 1.8rem;
+    line-height: 1.1em;
+  }
+  ol li {
+    margin-bottom: 0.4em;
+  }
 }
