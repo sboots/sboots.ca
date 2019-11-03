@@ -65,3 +65,6 @@ typings/
 
 # Intermediate pipes toCSS output
 resources/_gen
+
+# Hugo public build directory
+public/*
