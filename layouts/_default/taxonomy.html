@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{ with $tag := index .Site.Data.tags .Title }}
+  <h1>Category: {{ $tag.title }}</h1>
+  <p>{{ $tag.description | markdownify }}</p>
+{{ else }}
+  <h1>Category: {{ .Title }}</h1>
+{{ end }}
+
+{{ $truncate := default true .Site.Params.truncate }}
+{{ range .Paginator.Pages }}
+{{ if $truncate }}
+{{ .Render "summary" }}
+{{ else }}
+{{ .Render "content" }}
+{{ end }}
+{{ end }}
+
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+{{ partial "pagination.html" . }}
+{{ end }}
+
+{{ end }}
+
+{{- /* vim: set ts=2 sw=2 et: */}}
