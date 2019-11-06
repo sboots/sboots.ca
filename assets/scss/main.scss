@@ -45,7 +45,16 @@ article.blog-post {
     letter-spacing: -0.02em;
     font-kerning: normal;
     text-rendering: optimizeLegibility;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.5rem;
+  }
+
+  // twitter-widget {
+  //   margin-bottom: 1.6rem !important;
+  // }
+
+  twitter-widget + script + p {
+    // font-weight: bold;
+    margin-top: 1.6rem;
   }
 
   h2 {
