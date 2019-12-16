@@ -81,16 +81,36 @@
 
     {{ block "footer" . }}
     <footer class="blog-footer">
-      <p dir="auto">
-      {{ if .Site.Copyright }}
-      {{ .Site.Copyright | markdownify }}
-      {{ else }}
-      Blog template created by <a href="https://twitter.com/mdo">@mdo</a>, ported to Hugo by <a href='https://twitter.com/mralanorth'>@mralanorth</a>.
-      {{ end }}
-      </p>
-      <p>
-      <a href="#">{{ i18n "backToTop" }}</a>
-      </p>
+
+      <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+              <h4>Contact</h4>
+              <ol class="list-unstyled">
+                <li><a href="">Twitter</a></li>
+                <li><a href="">GitHub</a></li>
+                <li><a href="">LinkedIn</a></li>
+              </ol>
+            </div>
+            <div class="col-sm-4">
+              <h4>Projects</h4>
+              <ol class="list-unstyled">
+                <li><a href="">Meeting Cost Calculator</a></li>
+                <li><a href="">GoC Contract Spending Analysis</a></li>
+                <li><a href="">Is this blocked in my department?</a></li>
+              </ol>
+            </div>
+        </div>
+      </div>
+      <div class="container">
+        <p>
+            &copy; Sean Boots. <br/>Licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons license</a>.
+        </p>
+        <p>
+          <a href="#">{{ i18n "backToTop" }}</a>
+        </p>
+      </div>
+
     </footer>
     {{ end }}
 

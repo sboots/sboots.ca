@@ -1,8 +1,4 @@
 <!-- Create <project-root>/layouts/partials/head-custom.html to overwrite this empty template and put custom code into the <head> section. -->
 
-<!-- <link href="{{ "css/custom.css" | absURL }}" rel="stylesheet"> -->
-
-<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Roboto|Open+Sans|Libre+Baskerville&display=swap" rel="stylesheet">
-
 {{ $stylemain := resources.Get "scss/main.scss" | toCSS | postCSS (dict "use" "autoprefixer") | minify }}
 <link rel="stylesheet" href="{{ $stylemain.Permalink }}">

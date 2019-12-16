@@ -5,7 +5,7 @@ body {
 
   // font-family: 'Quicksand', sans-serif;
   // font-family: 'Roboto', sans-serif;
-  font-family: 'IBM Plex Sans', sans-serif;
+  // font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .blog-title {
@@ -19,16 +19,17 @@ body {
 
 .blog-header {
   border-bottom: none;
+  margin-bottom: 1rem;
 }
 .blog-description {
   // font-style: italic;
   color: #333;
-  font-family: 'IBM Plex Sans', sans-serif;
+  // font-family: 'IBM Plex Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5 , h6, .blog-title a  {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 800;
+  // font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 500;
 }
 
 article.blog-post {
@@ -40,7 +41,7 @@ article.blog-post {
   }
 
   p {
-    font-family: 'Libre Baskerville', serif;
+    // font-family: 'Libre Baskerville', serif;
     font-size: 1.1rem;
     letter-spacing: -0.02em;
     font-kerning: normal;
@@ -73,7 +74,7 @@ article.blog-post {
   }
 
   p.blog-post-meta, p.blog-post-tags {
-    font-family: 'IBM Plex Sans', sans-serif;
+    // font-family: 'IBM Plex Sans', sans-serif;
     letter-spacing: 0;
     font-size: 1.0rem;
     color: #333;
@@ -96,7 +97,7 @@ article.blog-preview {
   }
 
   p.blog-post-meta, p.blog-post-tags {
-    font-family: 'IBM Plex Sans', sans-serif;
+    // font-family: 'IBM Plex Sans', sans-serif;
     letter-spacing: 0;
     color: #333;
     margin-bottom: 0.5rem;
@@ -104,15 +105,51 @@ article.blog-preview {
   
 }
 
+.blog-sidebar {
+  // Overridden below on desktop sizes
+  border-top: .05rem solid #e5e5e5;
+  padding-top: 2rem;
+}
+
+.sidebar-module {
+  padding: 1rem 0;
+}
+
 .sidebar-module:first-child {
   padding-top: 0;
 }
 .sidebar-module {
   h4 {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     line-height: 1.1em;
   }
   ol li {
     margin-bottom: 0.4em;
   }
+  p, ul, ol {
+    font-size: 0.9rem;
+  }
+}
+
+.blog-footer {
+  text-align: left;
+  font-size: 0.8rem;
+
+  h4 {
+    font-size: 1.05rem;
+  }
+}
+
+// Media queries
+
+@media (min-width: 40em) {
+  .blog-header {
+    margin-bottom: 2rem;
+  }
+  
+  .blog-sidebar {
+    border-top: none;
+    padding-top: 0;
+  }
+  
 }
