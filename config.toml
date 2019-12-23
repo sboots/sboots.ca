@@ -7,7 +7,7 @@ theme = "hugo-theme-bootstrap4-blog"
 paginate = 10
 # optionally override the site's footer with custom copyright text
 copyright = "&copy; Sean Boots. Licensed under a [Creative Commons license](https://creativecommons.org/licenses/by/4.0/)."
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-154962815-1"
 #disqusShortname = "XYW"
 
 enableRobotsTXT = true
