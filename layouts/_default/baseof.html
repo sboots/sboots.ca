@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}" {{ if eq .Lang "ar" }}dir="rtl"{{ end }}>
-
   <head>
+
     {{ partial "head-meta.html" . }}
 
     {{ block "schema-dot-org" . }}
@@ -11,6 +11,9 @@
     <link rel="canonical" href="{{ .Permalink }}">
 
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ if .Params.summary }}
+    <meta name="description" content="{{ .Params.summary }}">
+    {{ end }}
 
     {{ if eq .Lang "ar" }}
     {{ "<!-- ar -->" | safeHTML }}
