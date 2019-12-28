@@ -1,7 +1,6 @@
 ---
 title: "Hello, world!"
 date: 2019-11-05T16:35:00-08:00
-draft: false
 summary: "A lot has happened since I originally planned to start a blog. On the plus side: I started a blog! I’m only 6 years or so late."
 ---
 

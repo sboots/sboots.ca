@@ -1,8 +1,8 @@
 ---
 title: "Moving to the Yukon"
 date: 2019-12-17T11:50:58-06:00
-draft: false
 summary: "In mid-October, Heather and I moved to Whitehorse. So far we’ve really enjoyed it – Whitehorse is a lovely city, full of friendly people. We both feel really lucky to have the chance to live and work somewhere new, and to see a part of Canada we hadn’t seen before."
+images: ["/img/2019/whitehorse-lookout.jpg"]
 ---
 
 In mid-October, Heather and I moved to Whitehorse. So far we’ve really enjoyed it – Whitehorse is a lovely city, full of friendly people. Arriving just as winter started was a bit intimidating, but so far it hasn’t been too intense. 
