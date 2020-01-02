@@ -34,6 +34,8 @@ h1, h2, h3, h4, h5 , h6, .blog-title a  {
 
 article.blog-post {
 
+  margin-bottom: 1rem;
+
   h1.blog-post-title {
     font-size: 2.8rem;
     line-height: 1.1em;
@@ -144,6 +146,11 @@ article.blog-preview {
   }
 }
 
+.prev-next-links {
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+}
+
 .blog-footer {
   text-align: left;
   font-size: 0.8rem;
@@ -166,6 +173,9 @@ article.blog-preview {
     padding-top: 5px;
   }
 
+  .prev-next-links-next {
+    text-align: right;
+  }
 
   
 }

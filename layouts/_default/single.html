@@ -101,6 +101,24 @@
   </footer>
   {{ end }}
 
+  {{ if or (.Prev) (.Next) }}
+    <nav class="prev-next-links">
+      <div class="row">
+    {{with .Prev}}
+      <div class="col-sm prev-next-links-prev mb-2">
+        <a href="{{.Permalink}}" class="d-block" rel="prev">Previous post:<br/>{{ .Title }}</a>
+      </div>
+    {{end}}
+
+    {{with .Next}}
+      <div class="col-sm prev-next-links-next mb-2">
+        <a href="{{.Permalink}}" class="d-block" rel="next">Next post:<br/>{{ .Title }}</a>
+      </div>
+    {{end}}
+      </div>
+    </nav>
+  {{ end }}
+
 </article> <!-- /.blog-post -->
 
 {{ end }}
