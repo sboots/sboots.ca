@@ -1,8 +1,8 @@
 # Sean’s blog
 
-This repository powers <sboots.ca>.
+This repository powers [sboots.ca](https://sboots.ca/).
 
-It uses [Hugo](https://gohugo.io) and the [Hugo Bootstrap v4 Blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog) theme.
+It uses [Hugo](https://gohugo.io) and the [Hugo Bootstrap v4 Blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog) theme by [Alan Orth](https://github.com/alanorth).
 
 The code here is licensed under the [MIT License](https://github.com/sboots/sboots.ca/blob/master/LICENSE). The v4 Blog theme is licensed under the [Creative Commons Attribution 3.0 license](https://github.com/alanorth/hugo-theme-bootstrap4-blog/blob/master/LICENSE.txt). 
 
