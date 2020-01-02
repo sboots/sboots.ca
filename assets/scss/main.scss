@@ -149,6 +149,7 @@ article.blog-preview {
 .prev-next-links {
   margin-top: 4rem;
   margin-bottom: 1rem;
+  font-size: 0.9rem;
 }
 
 .blog-footer {
@@ -171,6 +172,10 @@ article.blog-preview {
   .blog-sidebar {
     border-top: none;
     padding-top: 5px;
+  }
+
+  .prev-next-links {
+    font-size: 1rem;
   }
 
   .prev-next-links-next {
