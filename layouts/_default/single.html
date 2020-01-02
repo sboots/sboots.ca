@@ -61,6 +61,15 @@
     <h1 class="blog-post-title" dir="auto"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
     <p class="blog-post-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> <a href="https://github.com/sboots/sboots.ca/tree/master/content/{{ .File.Path }}">Version history</a></p>
   </header>
+
+  {{ if .Params.extradisclaimer }}
+  <aside id="extra-disclaimer" class="extra-disclaimer">
+    <p>
+      <b>Extra-prominent disclaimer:</b> {{ .Params.extradisclaimer }}
+    </p>
+  </aside>
+  {{ end }}
+
   {{ .Content }}
 
   {{ if .IsTranslated }}

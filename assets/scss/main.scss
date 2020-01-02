@@ -49,6 +49,16 @@ article.blog-post {
     margin-bottom: 1.4rem;
   }
 
+  .extra-disclaimer {
+    background: #eee;
+    padding: 1.1em 1.2em;
+    margin-bottom: 1.4rem;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
   // twitter-widget {
   //   margin-bottom: 1.6rem !important;
   // }
@@ -105,10 +115,8 @@ article.blog-preview {
   
 }
 
-.extra-disclaimer {
-  background: #eee;
-  padding: 1.1em 1.2em;
-}
+
+
 
 .blog-sidebar {
   // Overridden below on desktop sizes
