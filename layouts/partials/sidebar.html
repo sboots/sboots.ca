@@ -14,6 +14,30 @@
     <h4>Prominent disclaimer</h4>
     <p>The views expressed here are my own, and don’t represent the opinions of my team or my employer.</p>
   </section>
+
+  <section class="sidebar-module">
+    <h4>Sporadic mailing list</h4>
+    <p>You can sign up for occasional blog email updates here: </p>
+    <form
+    action="https://buttondown.email/api/emails/embed-subscribe/sboots"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.email/sboots', 'popupwindow')"
+    class="embeddable-buttondown-form">
+      <!-- <label for="bd-email">Enter your email</label> -->
+      <input type="email" name="email" id="bd-email" class="form-control form-control-sm mb-1" placeholder="Enter your email">
+      <input type="hidden" value="1" name="embed"></input>
+      <input type="submit" value="Subscribe" class="btn btn-primary btn-sm"></input>
+      <!-- <p>
+        <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+      </p> -->
+    </form>
+  </section>
+
+  <section class="sidebar-module">
+    <h4>About</h4>
+    <p>I’m a public servant working on technology in government. You <a href="https://twitter.com/sboots">probably know me from Twitter</a>.</p>
+  </section>
   <!-- {{ with .Site.Menus.sidebar }}
   <section class="sidebar-module">
     <h4>{{ i18n "links" }}</h4>
