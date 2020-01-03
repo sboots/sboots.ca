@@ -42,13 +42,19 @@ article.blog-post {
     margin-bottom: 1rem;
   }
 
-  p, ul li, ol li {
+  p, ul li, ol li, blockquote {
     // font-family: 'Libre Baskerville', serif;
     font-size: 1.1rem;
     // letter-spacing: -0.02em;
     font-kerning: normal;
     text-rendering: optimizeLegibility;
     margin-bottom: 1.4rem;
+  }
+
+  blockquote {
+    margin-left: 12px;
+    padding-left: 1.6rem;
+    border-left: 12px solid #ced4da;
   }
 
   .extra-disclaimer {
