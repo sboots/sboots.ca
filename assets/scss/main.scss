@@ -56,7 +56,19 @@ article.blog-post {
     // letter-spacing: -0.02em;
     font-kerning: normal;
     text-rendering: optimizeLegibility;
+  }
+
+  p, blockquote, ul, ol {
     margin-bottom: 1.4rem;
+  }
+
+  li ul, li ol {
+    margin-bottom: 0.7rem;
+  }
+
+  ul li, ol li {
+    margin-top: 0.7rem;
+    margin-bottom: 0.7rem;
   }
 
   blockquote {
