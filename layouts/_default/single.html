@@ -68,7 +68,7 @@
   {{ if .Params.extradisclaimer }}
   <aside id="extra-disclaimer" class="extra-disclaimer">
     <p>
-      <b>Extra-prominent disclaimer:</b> {{ .Params.extradisclaimer }}
+      <b>Extra-prominent disclaimer:</b> {{ .Params.extradisclaimer | markdownify }}
     </p>
   </aside>
   {{ end }}
