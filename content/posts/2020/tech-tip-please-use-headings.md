@@ -81,7 +81,7 @@ Sometimes people tend to choose headings because of how they look – they want
 
 One of the big questions is whether your document should start with a “Title” or with a “Heading 1”. Here’s some quick rules of thumb:
 
-*   With webpages (or with documents that are meant to become webpages) it’s very straightforward: there should only be one single “Heading 1” on a webpage, so start with a Heading 1 and don’t use the “Title” style. 
+*   With webpages (or with documents that are meant to become webpages) it’s very straightforward: [there should only be one single “Heading 1” on a webpage](https://accessibility.18f.gov/headings/), so start with a Heading 1 and don’t use the “Title” style. 
 *   With Word documents, if your document is short- or medium-length, start with a “Heading 1” as well and use “Heading 2s” and so on for each of your sections. 
 *   If your Word document is a thesis, a long report, or a book with multiple chapters, you can start it with a “Title” and use “Heading 1s” for each chapter, for example. 
 
