@@ -11,9 +11,10 @@ body {
 .blog-title {
   display: block;
   margin-top: 0.7em;
-  letter-spacing: -0.02em;
+  // letter-spacing: -0.02em;
   a {
     color: #000;
+    text-decoration: none;
   }
 }
 
@@ -40,6 +41,9 @@ article.blog-post {
     font-size: 2.8rem;
     line-height: 1.1em;
     margin-bottom: 1rem;
+    a {
+      text-decoration: none;
+    }
   }
 
   p.subtitle {
@@ -132,6 +136,10 @@ article.blog-preview {
   h2.blog-post-title {
     font-size: 1.8rem;
     line-height: 1.1em;
+    
+    a {
+      text-decoration: none;
+    }
   }
 
   p.blog-post-meta, p.blog-post-tags {
@@ -214,5 +222,38 @@ article.blog-preview {
 @media (min-width: 60em) {
   article.blog-preview {
     padding-left: 3rem;
+  }
+}
+
+
+// Print styles
+@media print {
+  // Override col-md-8 for the main section:
+  @media (min-width: 768px) {
+    .col-md-8 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+  }
+
+  .blog-title {
+      font-size: 2.2rem;
+      margin-top: 0.2em;
+      line-height: 1.1;
+  }
+  .blog-header {
+      margin-bottom: 0.5rem;
+  }
+  @media (min-width: 40em) {
+    .blog-title {
+        font-size: 2.2rem;
+    }
+    .blog-header {
+        margin-bottom: 0.5rem;
+    }
+  }
+  .blog-description {
+    font-weight: normal;
+    font-size: 1rem;
   }
 }
