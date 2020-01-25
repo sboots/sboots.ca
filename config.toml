@@ -4,7 +4,7 @@ title = "Sean Boots"
 
 theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
-paginate = 10
+paginate = 20
 # optionally override the site's footer with custom copyright text
 copyright = "&copy; Sean Boots. Licensed under a [Creative Commons license](https://creativecommons.org/licenses/by/4.0/)."
 googleAnalytics = "UA-154962815-1"
@@ -85,7 +85,7 @@ enableRobotsTXT = true
     # Optional, used for attribution in Twitter cards (ideally not a person
     # for example: nytimes, flickr, NatGeo, etc).
     # See: https://dev.twitter.com/cards/types/summary-large-image
-    twitter = "username"
+    twitter = "sboots"
 
 # Default content language for Hugo 0.17's multilingual support (default is "en")
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
