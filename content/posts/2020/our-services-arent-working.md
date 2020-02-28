@@ -27,6 +27,8 @@ This, too, has been a problem for a long time. In [2013](https://www1.oag-bvg.gc
 > …the perception of the service is very different depending on whether you are talking to the service provider or to the citizen trying to navigate the red tape.
 > 
 > Over the years, our audit work has revealed government’s lack of focus on end-users, Canadians.
+> 
+> Government… needs to be good at service delivery to remain relevant.
 
 In short: our difficult to navigate, user-hostile services are the ones at risk of failing. Our user-friendly services by and large don’t exist.
 
@@ -66,4 +68,4 @@ We owe it to everyone to build public services that they can use. I’d like to 
 
 How many government services meet that test: fully online from start to finish, that you can do on a smartphone any time of day in less than 10 minutes? I can [only think of one](https://canada.ca/eta), out of the more than a thousand unique services the federal government provides.
 
-We’ve got nowhere to go but up.
+We’ve got [nowhere to go but up](/2020/02/27/user-needs-not-government-needs/).
