@@ -10,7 +10,7 @@ If you work in government IT, you’ve probably heard this before. “We’ve go
 
 This isn’t unique to government, and it isn’t intrinsically a bad thing. Some standards are incredibly valuable; for example, there’s [only one right way to write date formats](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates). Software standards that improve a user’s experience (for example, using single sign-on instead of having dozens of separate login accounts) are a great choice. 
 
-But, standardization often plays an outsized role in technology strategy or enterprise architecture. Standardizing (or consolidating) on a single set of systems, or on a single product for a specific use-case, or on a single vendor, becomes [a goal in itself](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/) – often without recognizing the tradeoffs that end up being made as a result. In this blog’s spirit of being gently counter-cultural, here are some downsides to standardization efforts.
+But, standardization often plays an outsized role in technology strategy or enterprise architecture. Standardizing (or consolidating) on a single set of systems, or on a single product for a specific use-case, or on a single vendor, becomes [a goal in itself](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/) – often without recognizing the tradeoffs that end up being made as a result. In this blog’s spirit of being [gently counter-cultural](/2020/01/21/principles-for-blogging-as-a-public-servant/#how-to-criticize-a-thing-that-you-love), here are some downsides to standardization efforts.
 
 ## One size all fits nothing well
 
