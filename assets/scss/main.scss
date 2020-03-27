@@ -127,6 +127,12 @@ article.blog-post {
     }
   }
 
+  .twitter-tweet-rendered {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+  }
+
 }
 
 article.blog-preview {
@@ -255,5 +261,11 @@ article.blog-preview {
   .blog-description {
     font-weight: normal;
     font-size: 1rem;
+  }
+  
+  blockquote {
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
   }
 }
