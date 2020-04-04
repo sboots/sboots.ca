@@ -70,7 +70,7 @@ There _are_ important questions that teams and organizations should be asking wh
 
 All of these questions help determine how secure and effective a service is, but none of them have to do with where the service’s data is geographically stored.
 
-In public service environments with [a shortage of technical expertise](https://sboots.ca/2020/01/02/bridging-the-technology-policy-gap/), simple explanations (like storing data in Canada to keep it safe) are attractive and reassuring. Data residency is “security theatre” because it gives the impression of making things secure, without actually adding any operational security benefits.
+In public service environments with [a shortage of technical expertise](https://sboots.ca/2020/01/02/bridging-the-technology-policy-gap/), simple explanations (like storing data in Canada to keep it safe) are attractive and reassuring. Data residency is “[security theatre](https://www.schneier.com/essays/archives/2009/11/beyond_security_thea.html)” because it gives the impression of making things secure, without actually adding any operational security benefits.
 
 Data residency requirements do have some potential value when it comes to specific legal questions – namely, where lawsuits between a service provider and customer might take place, although this is usually determined in terms and conditions or contract details instead. And, as the Microsoft Ireland court case shows, unless the contract is with a company that has no U.S. business whatsoever, any information the company stores is still subject to U.S. law enforcement.
 
