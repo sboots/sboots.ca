@@ -91,5 +91,8 @@ enableRobotsTXT = true
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
 #DefaultContentLanguage = "en"
 
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
 [blackfriday]
   fractions = false
