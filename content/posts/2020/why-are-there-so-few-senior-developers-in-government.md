@@ -3,7 +3,7 @@ title: "Why are there so few senior developers in government?"
 date: 2020-05-26T18:48:51-07:00
 summary: "Delivering good services to the public, in the internet era, depends on designing and developing good software. Although there are about 17,000 IT professionals in the Canadian government (and an estimated 60,000 contractors and consultants), there are very few senior developers within the public service. Here are a few reasons why."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
-images: []
+images: ["/img/2020/portage-2015.jpg"]
 ---
 
 Delivering good services to the public, [in the internet era](https://public.digital/2018/10/12/internet-era-ways-of-working/), depends on designing and developing good software. 
