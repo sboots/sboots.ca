@@ -40,3 +40,5 @@ In an April opinion piece, Tony Dean [says it well](https://ipolitics.ca/2020/04
 > …when this crisis subsides, Canada’s public servants should not go all the way back to normal. They should be empowered to continue embracing uncertainty, learning through experimentation, and continuing to work more collaboratively across sectors and jurisdictions to bring different perspectives to the table. Public servants want permission to innovate as much as Canadians would benefit from it.
 
 _Interested in ways to make crisis-mode changes stick? [Nick Scott’s blog post on parallel learning structures](https://medium.com/@nickscott506/beyond-the-crisis-3e62620b7347) is a great deep-dive into path dependency and strategies for change in government._
+
+_Kathryn May’s [How COVID-19 could reshape Canada's federal public service](https://ottawacitizen.com/opinion/columnists/may-how-covid-19-could-reshape-canadas-federal-public-service/), published May 23, is also a must-read._
