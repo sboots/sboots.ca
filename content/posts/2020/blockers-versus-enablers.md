@@ -7,7 +7,7 @@ images: ["/img/2020/making-work-visible.jpg"]
 
 As many of you will know, something I’m very interested in is **the value of public servants’ time**. When I first launched the [Meeting Cost Calculator](https://meetingcostcalculator.ca/), a lot of the early feedback I got was how useful the calculator would be for other, non-meeting public service activities as well. You could use the calculator to estimate the total cost of writing and reviewing a briefing note, to fill out the paperwork for a leave request, to complete the [travel claim process](https://internal-red-tape-reduction-report.github.io/annex-2/#snapshot-the-trouble-with-travel), etc. 
 
-Part of what motivated creating the calculator is the belief [that public servants’ time is valuable](https://www.cbc.ca/news/canada/ottawa/online-calculator-meetings-civil-service-1.5082680) – something that isn’t always appreciated by senior public service management, the public, and public servants themselves. The public service is often seen as cautious, [risk-averse](/2020/05/22/crisis-bureaucracies-and-change/), and perfectionist. The hierarchy of public service institutions compound this, as documents and other products get carefully reviewed and wordsmithed at each layer. All told, these tendencies create an environment where [getting things out the door is a challenge](/2020/01/10/shipping/).
+Part of what motivated creating the calculator is the belief [that public servants’ time is valuable](https://www.cbc.ca/news/canada/ottawa/online-calculator-meetings-civil-service-1.5082680) – something that isn’t always appreciated by senior public service management, the public, and public servants themselves. The public service is often seen as cautious, [risk-averse](/2020/05/22/crisis-bureaucracies-and-change/), and perfectionist. The hierarchy of public service institutions compound this, as documents and other products get carefully reviewed and wordsmithed at each layer. All told, these tendencies create an environment where [getting things out the door is a challenge](/2020/01/10/shipping/).
 
 The organizational dynamics in these situations are sometimes hard to talk about; one person’s due diligence reviews are another person’s unreasonable delays. In today’s context, however, where the public service is being asked [to respond more quickly](/2020/05/22/crisis-bureaucracies-and-change/) to evolving social needs, being able to get things out the door quickly (and continue iterating once they do) is more important than ever. 
 
@@ -19,7 +19,7 @@ As a public servant trying to get something approved up the hierarchy, the simpl
 
 “Yes” and “no” isn’t the whole story, however; the **time** it takes to receive these is a bigger factor. (In practice, more frequently, it’s the time it takes to receive some kind of edit or revision to the document). A “fast no” with a series of changes that will then let the document keep on moving up is more valuable than a “slow yes”, where the document is approved as-is but only after weeks or months of sitting on someone’s desk. 
 
-In environments where shipping things quickly matters (which, ideally, would include most of the public service), “slow yesses” and “slow nos” are practically equivalent. In some cases, the “slow no” or “slow yes” are deliberate institutional strategies – to take so long to review or approve something that the originating party ultimately gives up. 
+In environments where shipping things quickly matters (which, ideally, would include most of the public service), “slow yesses” and “slow nos” are practically equivalent. In some cases, the “slow no” or “slow yes” are deliberate institutional strategies – to take so long to review or approve something that the originating party ultimately gives up. 
 
 Overcoming blockers as a function of time often depends on setting clear expectations for timelines and getting pre-approval for things long before you need it. Here are some potential strategies:
 
@@ -56,9 +56,9 @@ Overcoming blockers as a function of quantity ultimately comes down to, reducing
 
 Although this post doesn’t paint an optimistic picture, good work gets done in the public service all the time. In a lot of cases, that’s thanks to thoughtful public servants in management and leadership roles, who champion their teams’ work and fend off potential blockers when needed.
 
-The public service leaders that I look up to most embody a combination of humility and trust – hands-off and confident in their teams to make good choices and do good work, but ready at a moment’s notice to step in and shield those teams from external delays, gatekeepers, and threats. 
+The public service leaders that I look up to most embody a combination of humility and trust – hands-off and confident in their teams to make good choices and do good work, but ready at a moment’s notice to step in and shield those teams from external delays, gatekeepers, and threats. 
 
-It’s striking how rare, and how powerful, a statement like “endorsed, with no changes” is in a rigidly hierarchical environment like the public service. It’s an expression of trust – both in a team’s capacity to implement, and in the value and urgency of their work.
+It’s striking how rare, and how powerful, a statement like “endorsed, with no changes” is in a rigidly hierarchical environment like the public service. It’s an expression of trust – both in a team’s capacity to implement, and in the value and urgency of their work.
 
 The metaphor for enabling public service leadership that comes to mind (you’re welcome, _Star Trek_ fans) is of a starship in orbit. You trust the away team to do what works best on the ground, but you’re on standby and ready to act when needed. Just knowing that you’re there, and that you have the team’s back, sometimes makes all the difference.
 
