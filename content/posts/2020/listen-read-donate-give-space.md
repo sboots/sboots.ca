@@ -40,7 +40,7 @@ Some of the conversations that really stood out in the past week were from fello
 
 {{< tweet 1268497655115718657 >}}
 
-There’s two angles on this – one is, how do we talk about the fact that government systems aren’t equitable, from the inside? Historic injustices against Indigenous people and people of colour are built into the origins of some of the institutions we work in. How do we rethink that, and create government services that are more compassionate, more inclusive, and deliberately designed to challenge and reduce inequity?
+There’s two angles on this – one is, how do we talk about the fact that government systems aren’t equitable, from the inside? Historic injustices against Indigenous people and people of colour are built into the origins of many of the institutions we work in. How do we rethink that, and create government services that are more compassionate, more inclusive, and deliberately designed to challenge and reduce inequity?
 
 The other angle is: how do we confront the reality that Black public servants face [systemic barriers to their careers](https://toronto.citynews.ca/2019/06/24/celina-caesar-chavannes-says-black-civil-servants-passed-over-for-promotions/), and [retribution for community advocacy work](https://www.cbc.ca/news/canada/british-columbia/vancouver-woman-quit-anti-racism-job-1.5396287)? The senior executive ranks of the federal public service are [almost completely white](https://twitter.com/supergovernance/status/1270331331768127490), which makes it ill-prepared to understand [systemic biases against public servants of colour](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/government-urged-to-increase-diversity-at-top-of-federal-public-service), and ill-prepared to address issues like police violence and systemic racism in society at large. 
 
@@ -54,7 +54,7 @@ Ta-Nehisi Coates and Ezra Klein [published a great interview last week](https://
 
 > There are many ways we could think about this in terms of the state. You could think about prison abolition. You could have police who did not have guns. If nonviolence is such a beautiful way of living, I think we should imagine that for the state. I think it’s actually worth doing.
 
-Building a more just, equitable society is a public policy question. It’s so much more than that, too. But for public servants, public policy students, and aspiring and current politicians – it’s so important to recognize that working to build a better society _is_ _what you signed up for_. It isn’t just a thing to watch other people do, on the news or from the sidelines. It’s what you’re here for. 
+**Building a more just, equitable society is a public policy question.** It’s so much more than that, too. But for public servants, public policy students, and aspiring and current politicians – it’s so important to recognize that working to build a better society _is_ _what you signed up for_. It isn’t just a thing to watch other people do, on the news or from the sidelines. It’s what you’re here for. 
 
 Doing this well – making things better, instead of making things worse – involves stepping back, listening, and ceding space to other people who don’t have the privilege that you have. It involves, as a first step, not doing harm. And it involves learning as much as you can from people of other communities, backgrounds, and cultures, and [shifting power to them](https://twitter.com/cydharrell/status/1270397090032541698) [without making it about yourself](https://everydayfeminism.com/2016/02/white-people-emotions-tears/). 
 
