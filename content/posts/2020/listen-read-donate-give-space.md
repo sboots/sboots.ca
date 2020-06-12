@@ -1,12 +1,12 @@
 ---
 title: "Listen, read, donate, give space"
 date: 2020-06-09T18:12:39-07:00
-summary: "The past couple weeks have seen an outpouring of grief, protests, and calls for change following the death of George Floyd at the hands of Minneapolis police officers. Floyd’s death is not a one-off. For Black Americans – and Black Canadians – police violence and systemic racism is an everyday and ongoing problem. Learning how to recognize and confront racism in our own actions, our everyday lives, and in our work as public servants, is incredibly important."
+summary: "The past couple weeks have seen an outpouring of grief, protests, and calls for change following the death of George Floyd at the hands of Minneapolis police officers. Floyd’s murder, by police, is not a one-off. For Black Americans – and Black Canadians – police violence and systemic racism is an everyday and ongoing problem. Learning how to recognize and confront racism in our own actions, our everyday lives, and in our work as public servants, is incredibly important."
 subtitle: "Black Lives Matter"
 images: []
 ---
 
-The past couple weeks have seen an outpouring of grief, protests, and calls for change following [the death of George Floyd at the hands of Minneapolis police officers](https://www.newyorker.com/news/daily-comment/the-death-of-george-floyd-in-context). Floyd’s death is [not a one-off](http://activehistory.ca/2020/06/12-black-scholars-on-the-black-lives-matter-movement-and-canada/). For Black Americans – and Black Canadians – police violence and systemic racism is [an everyday and ongoing problem](https://www.youtube.com/watch?v=IIkOG2vtE1g).
+The past couple weeks have seen an outpouring of grief, protests, and calls for change following [the death of George Floyd at the hands of Minneapolis police officers](https://www.newyorker.com/news/daily-comment/the-death-of-george-floyd-in-context). Floyd’s murder, by police, is [not a one-off](http://activehistory.ca/2020/06/12-black-scholars-on-the-black-lives-matter-movement-and-canada/). For Black Americans – and Black Canadians – police violence and systemic racism is [an everyday and ongoing problem](https://www.youtube.com/watch?v=IIkOG2vtE1g).
 
 As a white, male Canadian, it’s hard to know how to talk about police violence and racism without coming across as performative or inauthentic. Well-intentioned but cringe-worthy attempts by white people who end up putting a focus on themselves – instead of people who are actually marginalized and oppressed – are [pretty frequent](https://twitter.com/asad_ch/status/1270073252854013955). 
 
