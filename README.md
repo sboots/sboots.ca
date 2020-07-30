@@ -10,4 +10,26 @@ Content on the blog is licensed under the [Creative Commons Attribution 4.0 Inte
 
 Feel free to reuse the code here, and to reshare post content (with attribution) as you’d like!
 
+## Local development
+
+### First run
+
+To build this site locally, clone it into a new folder.
+
+Then, from that folder, run
+
+```
+git submodule update --init --recursive
+```
+
+to pull in the theme submodule.
+
+### Local preview
+
+To display draft posts (and re-render styles and layouts each time), run
+
+```
+hugo server -D --disableFastRender
+```
+
 If you have questions or comments, please don’t hesitate to reach out here or [on Twitter](https://twitter.com/sboots)!
