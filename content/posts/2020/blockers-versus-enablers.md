@@ -5,6 +5,8 @@ summary: "As a public servant trying to get something approved up the hierarchy,
 images: ["/img/2020/making-work-visible.jpg"]
 ---
 
+[_Also published on Apolitical_](https://apolitical.co/en/solution_article/blockers-versus-enablers-how-to-maximise-your-time-in-the-public-service)
+
 As many of you will know, something I’m very interested in is **the value of public servants’ time**. When I first launched the [Meeting Cost Calculator](https://meetingcostcalculator.ca/), a lot of the early feedback I got was how useful the calculator would be for other, non-meeting public service activities as well. You could use the calculator to estimate the total cost of writing and reviewing a briefing note, to fill out the paperwork for a leave request, to complete the [travel claim process](https://internal-red-tape-reduction-report.github.io/annex-2/#snapshot-the-trouble-with-travel), etc. 
 
 Part of what motivated creating the calculator is the belief [that public servants’ time is valuable](https://www.cbc.ca/news/canada/ottawa/online-calculator-meetings-civil-service-1.5082680) – something that isn’t always appreciated by senior public service management, the public, and public servants themselves. The public service is often seen as cautious, [risk-averse](/2020/05/22/crisis-bureaucracies-and-change/), and perfectionist. The hierarchy of public service institutions compound this, as documents and other products get carefully reviewed and wordsmithed at each layer. All told, these tendencies create an environment where [getting things out the door is a challenge](/2020/01/10/shipping/).
