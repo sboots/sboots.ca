@@ -127,3 +127,7 @@ A number of universities have great websites that discuss accessibility best pra
 Another great resource is the [WebAim guide to creating accessible documents in Word](https://webaim.org/techniques/word/).
 
 If you use other tools (Google Docs, Pages for Mac, etc.), you can use similar steps to add real headings to your documents. Let me know if it’d be useful to add these as a future tech tip, and if you have any feedback, [don’t hesitate to reach out](mailto:sean@theboots.ca?subject=Headings)!
+
+_Other public service tech tips:_
+
+*   [Paste without fonts and formatting (September 2020)](/2020/09/18/public-service-tech-tip-paste-without-fonts-and-formatting/)
