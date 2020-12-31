@@ -120,6 +120,18 @@ article.blog-post {
     margin-bottom: 0;
   }
 
+  figure {
+    color: #999;
+    background-color: #f9f9f9;
+
+    figcaption {
+      font-size: .8rem;
+      font-style: italic;
+      padding: .5rem 0.7rem;
+
+    }
+  }
+
   p.blog-post-meta, p.blog-post-tags {
     // font-family: 'IBM Plex Sans', sans-serif;
     letter-spacing: 0;
