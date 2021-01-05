@@ -34,8 +34,6 @@ Some of the conversations that really stood out in the past week were from fello
 
 {{< tweet 1268167187723927557 >}}
 
-{{< tweet 1269465564956758018 >}}
-
 {{< tweet 1268321371848871936 >}}
 
 {{< tweet 1268497655115718657 >}}
