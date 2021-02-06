@@ -23,7 +23,7 @@ Below is a series of screenshots of these ads, collected between October 2019 an
 
 ## IBM ads on Twitter, October 2019 to October 2020
 
-_As seen from my own Twitter feed, using the Android and iOS Twitter apps. Adjacent tweets and usernames were blurred out. Note that these images (three composite files) might take some time to load. [See a combined image here](https://sboots.ca/img/2021/ibm-combined.jpg) (9.3MB)._
+<i>As seen from my own Twitter feed, using the Android and iOS Twitter apps. Adjacent tweets and usernames were blurred out. Note that these images (three composite files) might take some time to load. <a href="/img/2021/ibm-combined.jpg" target="_blank">See a combined image here</a> (9.3MB).</i>
 
 <div class="image-series">
   <img src="/img/2021/ibm-a.jpg" class="img-fluid" alt="Part one, a collage of 60 Twitter ads for IBM, with titles like “Get storage with stretch built in, that evolves with your business needs” or “Let IBM help you migrate your workloads to the cloud today”, or “Exclusive offer for new IBM Cloud Partners”.">
