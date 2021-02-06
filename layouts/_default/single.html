@@ -62,7 +62,7 @@
     {{ if .Params.subtitle }}
       <p class="subtitle">{{ .Params.subtitle }}</p>
     {{ end }}
-    <p class="blog-post-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> <a href="https://github.com/sboots/sboots.ca/tree/master/content/{{ .File.Path }}">Version history</a></p>
+    <p class="blog-post-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> <a href="https://github.com/sboots/sboots.ca/tree/main/content/{{ .File.Path }}">Version history</a></p>
   </header>
 
   {{ if .Params.extradisclaimer }}
