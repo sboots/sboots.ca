@@ -35,10 +35,12 @@ In government IT settings, decision-makers make particular internal software pro
 
 When I think of the (mandatory) enterprise software solutions in place in the Canadian government – the [Phoenix pay system](https://www.cbc.ca/news/canada/ottawa/phoenix-pay-system-cost-could-total-2-6b-before-cheaper-replacement-ready-1.5138036), the [Shared Travel System](https://internal-red-tape-reduction-report.github.io/annex-2/#snapshot-the-trouble-with-travel), [GCkey](https://www.cbc.ca/news/politics/cra-gckey-cyberattack-1.5689106) to sign into websites, the [content management system that powers Canada.ca](https://www.cbc.ca/news/politics/canadaca-federal-website-delays-1.3893254), the Shared Case Management System, GCdocs, and a number of others – none of them are solutions that in good faith I’d recommend that friends and colleagues in the public service use, if they had the choice. I wonder if the fact that they are mandatory is actually one of the reasons why these solutions are as dated and [poor-quality](https://twitter.com/alexstamos/status/1338531560761409547) as they are.
 
+## Make things optional, it makes things better
+
 In comparison – as the Amazon example above hints at – there are a number of clear advantages to building services that are optional:
 
 *   **They create feedback loops.** Users can tell you why they chose to use, or not use, your product.
-*   **They generate data about adoption versus competitors.** If users decide to use an alternative product instead, that can tell you volumes about what features or benefits are a priority for them.
+*   **They generate data about adoption rates versus competitors.** If users decide to use an alternative product instead, that can tell you volumes about what features or benefits are a priority for them.
 *   **They incentivize continuous improvement.** If users have the choice to use other products, you’re motivated to keep on improving yours in order to retain them as a user.
 
 These advantages all apply even without needing to worry about commercial viability, in government settings.
