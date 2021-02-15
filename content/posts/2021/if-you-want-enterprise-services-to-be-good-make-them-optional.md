@@ -2,6 +2,7 @@
 title: "If you want enterprise services to be good, make them optional"
 date: 2021-02-14T20:52:15-07:00
 summary: "Enterprise IT systems in government are often enforced as mandatory solutions that other teams and departments are required to use. In comparison, leading tech companies turn their internal systems into external products, to see if they are commercially viable. Making enterprise services optional creates feedback loops, generates adoption-rate data, and incentivizes continuous improvement."
+extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: []
 ---
 
