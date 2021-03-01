@@ -22,7 +22,7 @@ Seems rosy so far, right? Here’s the catch…
 
 ## A car versus a box of car parts
 
-Very few software solutions marketed at government institutions _aren’t_ described as COTS products. Calling your product a COTS solution is a key part of government IT sales and marketing. What happens as a result is that a lot of COTS-branded software products don’t live up to that “off the shelf” label:
+Almost all software solutions marketed at government institutions are described as COTS products. Calling your product a COTS solution is a key part of government IT sales and marketing. What happens as a result is that a lot of COTS-branded software products don’t live up to that “off the shelf” label:
 
 {{< tweet 1159160677958934530 >}}
 
