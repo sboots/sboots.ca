@@ -9,8 +9,6 @@ It’s been a strange, unfamiliar, and in a lot of ways distressing past few wee
 
 My default approach is to try to find the silver linings in any situation. There’s a time for that, but as people are losing their jobs, places and businesses are closing for now or for good, and everyone shelters in their own homes – now doesn’t feel like the moment. 
 
-{{< tweet 1239181195692433408 >}}
-
 Months from now, we’ll celebrate the (incredible) work of nurses and doctors and medical staff, of grocery store and pharmacy workers, of truckers and logistics people, of [public health experts](https://twitter.com/CBCTheNational/status/1243220173462671362) and of everyday people looking out for one another (from a safe distance of 2 metres away). 
 
 In the meantime, call your friends and family; have Skype brunches and dinners over FaceTime. Last weekend my amazing friend [Jessica Fan](https://twitter.com/jess_fan) organized a virtual coffeehouse over Zoom – with friends playing songs on piano and guitar, singing or reading poems to each other. It was such a bright and unexpected moment, of finding joy in a shared social experience after being isolated at home.
