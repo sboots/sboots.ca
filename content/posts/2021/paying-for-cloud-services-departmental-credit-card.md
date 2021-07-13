@@ -55,7 +55,7 @@ This is a question that comes up a lot! For federal public servants in typical d
 * Find someone with a departmental acquisition card (typically an admin person) who can actually pay for it, on a monthly or annual basis. (Getting a departmental acquisition card involves a non-trivial amount of mandatory training and approvals!)
 * Make sure that the person with the departmental acquisition card has a copy of the “I approve this purchase” email so that they can handle the credit card reconciliation process every month, or whenever credit card charges take place. (This is a genuinely painful amount of paperwork; admin people are heroes.)
 
-This all depends, of course, on the cost of the online service being below the competitive bidding threshold for services ([currently $40k](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14494#sec10.2)), as well as being below your department’s per-transaction credit card limit (which varies from department to department). 
+This all depends, of course, on the cost of the online service being below the competitive bidding threshold for services ([currently $40k](https://laws-lois.justice.gc.ca/eng/regulations/SOR-87-402/FullText.html#h-905874)), as well as being below your department’s per-transaction credit card limit (which varies from department to department). 
 
 There are still a lot of other things to think about (for example, security considerations for anything other than unclassified data; accessibility considerations for both internal colleagues and members of the public, depending on the use-case; ways to export your data to [avoid vendor lock-in](https://sboots.ca/2021/05/12/rule-number-one-avoid-vendor-lock-in/)). But, paying for a paid tier is a really important initial step. 
 
