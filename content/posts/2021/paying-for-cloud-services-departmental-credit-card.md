@@ -33,7 +33,10 @@ All told, paid tiers of online services are **lower-risk than free tiers** from 
 
 Traditionally, though, departmental procurement and financial divisions have been reluctant to allow teams to pay for online services with a departmental credit card (credit cards being, again, the only way to pay for them). 
 
-One barrier that would frequently come up is the 2013 _[Policy on Decision Making in Limiting Contractor Liability in Crown Procurement Contracts](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12038)_. According to that policy, only the deputy minister of Public Services and Procurement Canada could accept commercial terms that limit vendors’ liability to the government if things go wrong. That, in turn, was frequently interpreted to mean that government teams couldn’t accept the standard click-through terms of use for online services, which almost always include liability provisions. (For example, that the service provider is only liable for the cost you as a customer paid in the past 12 months.) Asking _the deputy minister of PSPC_ if your team could spend $15/month on Trello and accept Trello’s standard terms and conditions wasn’t exactly a viable option.
+One barrier that would frequently come up is the 2013 _[Policy on Decision Making in Limiting Contractor Liability in Crown Procurement Contracts](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12038)_. According to that policy, only the deputy minister of Public Services and Procurement Canada could accept commercial terms that limit vendors’ liability to the government if things go wrong. That, in turn, was frequently interpreted to mean that government teams couldn’t accept the standard click-through terms of use for online services, which almost always include liability provisions. (For example, that the service provider is only liable for the cost you as a customer paid in the past 12 months.) This left teams with two unappealing options:
+
+* Asking _the deputy minister of PSPC_ if your team could spend $15/month on Trello and accept Trello’s standard terms and conditions. Not exactly a viable option.
+* Asking the provider to sign a Government of Canada-created and negotiated contract agreement. Given the length and complexity of a typical GC contract, the provider’s legal costs for reviewing the contract would far exceed the $15/month revenue. 
 
 ## Bring on the new directive
 
@@ -47,6 +50,8 @@ But (and this might be my favourite part of any TBS policy appendix!) it includ
 
 **This means that government teams can accept the standard terms and conditions of low-cost online tools**. It’s a small thing on paper but the impact on teams striving to work in modern ways is going to be huge.
 
+This is also a big win for small and medium-sized software and software-as-a-service companies, including Canadian ones. It gives departments access to services that previously required the provider to sign a Government of Canada contract, which can be confusing and difficult to navigate for small businesses that aren’t accustomed to government procurement processes (compared to, of course, [large IT companies](/2021/02/06/a-years-worth-of-ibm-ads/) who have whole teams dedicated to winning government contracts!).
+
 ## How do we actually pay for a service, though?
 
 This is a question that comes up a lot! For federal public servants in typical departments, the answer is: 
@@ -58,6 +63,15 @@ This is a question that comes up a lot! For federal public servants in typical d
 This all depends, of course, on the cost of the online service being below the competitive bidding threshold for services ([currently $40k](https://laws-lois.justice.gc.ca/eng/regulations/SOR-87-402/FullText.html#h-905874)), as well as being below your department’s per-transaction credit card limit (which varies from department to department). 
 
 There are still a lot of other things to think about (for example, security considerations for anything other than unclassified data; accessibility considerations for both internal colleagues and members of the public, depending on the use-case; ways to export your data to [avoid vendor lock-in](/2021/05/12/rule-number-one-avoid-vendor-lock-in/)). But, paying for a paid tier is a really important initial step. 
+
+## Considerations (hat tip fellow policy wonks!)
+
+The Directive is newly-published, but adds the flexibility that teams have been seeking for a long time. More guidance will probably come out in the future to help answer questions people might have about it. In the meantime, here’s a couple of considerations to keep in mind:
+
+1. Read all the terms before clicking “accept”. When you accept commercial terms, you are entering into a contract. Commercial terms may offer “best effort” protections for data recovery and may share data with third-parties. This isn’t to say you shouldn’t use a service, just know what you’re going into and make your usage proportional to the terms offered.
+2. Section B.1.1.4 is focused on low-value and low-risk software and subscriptions. “Low” isn’t quantified in the directive. $15/month Trello safely falls into this category, but when the buy is in the tens of thousands of dollars, it’s probably time to start thinking of negotiated terms instead of commercial terms. As you start committing more precious information or processes to a service, you will want tighter terms between you and the supplier. Fairness and competition also becomes a factor as the value increases.
+
+All that said: you learn the most by trying something. Choose a low-cost online service that might speed up your team, and go for it! If you run into issues, check out [Should it be blocked in my department?](https://shoulditbeblockedinmydepartment.ca/) for some extra tips on getting started with online services in government settings.
 
 ## What’s next?
 
