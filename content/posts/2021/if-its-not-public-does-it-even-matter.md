@@ -2,7 +2,7 @@
 title: "If it’s not public, does it even matter?"
 date: 2021-10-24T20:45:35-07:00
 summary: "In a society and world where misinformation is a large-scale problem, public service habits that default to secrecy are not great. Generally speaking, public service work is only valuable based on the degree to which it interacts with the public and world at large. Fighting secrecy culture – and working as much in the open as possible – is a really important part of making the public service relevant and effective."
-images: []
+images: ["/img/2021/ottawa-gatineau-river-ice.jpg"]
 ---
 
 Years ago, I interviewed for a policy internship with one of Canada’s intelligence agencies. Most of this involved detailed conversations with personnel security investigators, their eyebrows permanently raised as I answered questions about how vanilla my personal life is. I am a very, _very_ boring person. I ultimately turned down the position to do an [international internship through my grad program](https://socialsciences.uottawa.ca/public-international-affairs/why-study/student-exerience-gspia), but I wonder sometimes how differently my life and work would look if I had followed that career path instead.
