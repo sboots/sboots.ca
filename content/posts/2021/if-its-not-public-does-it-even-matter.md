@@ -1,0 +1,55 @@
+---
+title: "If it’s not public, does it even matter?"
+date: 2021-10-24T20:45:35-07:00
+summary: "In a society and world where misinformation is a large-scale problem, public service habits that default to secrecy are not great. Generally speaking, public service work is only valuable based on the degree to which it interacts with the public and world at large. Fighting secrecy culture – and working as much in the open as possible – is a really important part of making the public service relevant and effective."
+images: []
+---
+
+Years ago, I interviewed for a policy internship with one of Canada’s intelligence agencies. Most of this involved detailed conversations with personnel security investigators, their eyebrows permanently raised as I answered questions about how vanilla my personal life is. I am a very, _very_ boring person. I ultimately turned down the position to do an [international internship through my grad program](https://socialsciences.uottawa.ca/public-international-affairs/why-study/student-exerience-gspia), but I wonder sometimes how differently my life and work would look if I had followed that career path instead.
+
+Let’s just say, regularly blogging about my day job probably would not have been a feature. 😜
+
+Michael Karlin’s [Twitter thread this past week](https://twitter.com/supergovernance/status/1450131629406629891) was a great reflection:
+
+{{< tweet 1450132711595814913 >}}
+
+In a society and world where misinformation is a [large-scale problem](https://www.theatlantic.com/ideas/archive/2021/10/disinformation-propaganda-amplification-ampliganda/620334/), public service habits that default to secrecy are …not great. 
+
+Conversations with friends and counterparts from around the public service over the past year bring up tons of examples of this habit: fear of putting things in writing, fear of ATIP (access to information) requests, fear of public disclosure making people look bad… It’s all the more striking when you pair it with public commentary from academic researchers, journalists, and activists [pleading to governments](https://twitter.com/JPSoucy/status/1379411065117806593) to provide more information and more data, [imperfections and all](https://twitter.com/rypan/status/1371564635212541956). I’ll leave it to political scientists to ponder where that fear originates from, but it’s safe to say, it’s a very established, very unfortunate, part of Canadian public service culture.
+
+It’s also a habit that’s hard to understand and empathize with, because my own philosophy is so different. The public service is _so cool_, and does [such important work](/2020/01/21/principles-for-blogging-as-a-public-servant/#how-to-criticize-a-thing-that-you-love). Why wouldn’t you want to shout that from the rooftops? If our team gets an ATIP request, I am _genuinely stoked_ that people are interested in our work (with apologies to my colleagues; completing ATIP requests is an incredibly clunky and manual process). Whenever there are chances to [do more work](/2020/10/30/working-in-the-open-firsts-for-covid-alert/) [in the open](/2020/08/20/make-things-open-source-it-makes-things-better/), our team is pumped to do so. Working in the open is [one of our organizational values](https://digital.canada.ca/our-values/).
+
+## Reports to nowhere
+
+On a flight in 2015, when I still worked for a [tech startup](https://viamo.io/), I happened to sit next to a senior executive from a federal government department. Over a several-hour conversation, I listened to his reflections on the public service. He described, cynically, the public service as “welfare for people with master’s degrees”, where most of the documents and artefacts that (well-paid) public servants produced were just consumed by other public servants elsewhere in government. 
+
+That quote is problematic in a number of ways, but his observation on that type of cycle was striking – how so much of the work that he observed never had any impact on the public beyond the walls of government institutions. 
+
+As someone who works nowadays in a policy role – spending my days writing documents and emails – that conversation feels prescient. The takeaway that stuck with me was that, generally speaking, **public service work is only valuable based on the degree to which it interacts with the public and world at large**. 
+
+Governments do [a lot of](https://buttondown.email/lchski/archive/hit-and-miss-112-public-service/) [different things](https://web.archive.org/web/20191209113043/https://www.bloomberg.com/opinion/articles/2019-10-15/lifesaving-coast-guard-scientist-reflects-on-government-service), and many public service jobs involve directly interacting with the public as a daily activity. Service centre agents, food inspectors, teachers and educators, health and emergency workers, fisheries and wildlife officers, immigration officials and border guards… These public service jobs, in my view, actually have the highest public impact by far. For the people that they serve, they represent the government affecting their lives (hopefully for the better) in a very immediate way. 
+
+(An important caveat: especially in law enforcement, immigration, and border enforcement roles, these jobs in some circumstances can also affect people’s lives very, very negatively in an immediate way.)
+
+For policy people (like myself!) writing documents and plans and ideas – the potential impact we have on the public at large is a lot harder to measure. Did the document you helped write change the big-picture policies that the government put into place? How much did your document help? How much of your work survived the [rounds of approvals and committees on its way to decision-makers](/2021/01/12/onerous-levels-of-oversight/)? How much did the resulting policy changes actually help everyday people? The further you get from the actual public – the more insulated you get within the public service – the less likely you are to be able to empathize with what people are going through, and the less likely you are to positively impact people’s lives. 
+
+The caveat is: it’s also possible to have a positive impact by [helping other public servants do their work more effectively](/2020/12/27/tools-that-work/). Particularly the public servants who do interact more directly with the public. That’s where, at least in my day to day work, I find a lot of meaning. 
+
+## Fight the good fight
+
+Fighting secrecy culture – and working as much in the open as possible – is [a really important part of that work](/2020/01/21/principles-for-blogging-as-a-public-servant/#how-to-criticize-a-thing-that-you-love). It’s a way of [radiating intent](https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3), of finding allies, and of reaching people that you might not be able to directly communicate with as a public servant (senior executives, for example, or political leaders and civic activists). It also means that – even if your work [didn’t ship](/2020/01/10/shipping/), or didn’t achieve the policy or program outcome you ultimately hoped for – if it leaves a public record, then other people, other public servants, and other governments can learn from it and build on it. The more public record, the better.
+
+It’s not an option that’s available to everyone; there are parts of government whose work _should_ stay secret for good reason. That’s not just intelligence and security people (sorry, past internship me); if you’re working in market regulation or taxation changes, or fraud detection work, or delicate diplomatic topics, carry on, good people. Few public servants, likewise, are in a position where they can just decide to [just go for it](/2020/10/13/an-approval-of-an-approach/) and start working in the open. There’s a lot of privilege that relates to being able to do this. I hope both that I don’t take this for granted, and that my own efforts help create more space for other public servants to be able to do likewise. 
+
+What are the takeaways? 
+
+* Public service secrecy is a problem, and it’s probably contributing to a lack of public trust in governments. We should talk about it.
+* Any chance you have to get your work into the public sphere (publishing drafts and works-in-progress, proactively disclosing documents, inviting public scrutiny!) is worth taking.
+* Individually working in the open isn’t an option for every public servant, but if you have the option, it adds a whole new layer of meaning to your work that you might not have expected.
+* If you’re a public service leader, do everything you can to make working in the open an option for the people and teams that work for you.
+
+Rock on, friends. 🙌
+
+_**Addendum 1:** Working in the open also brings up really interesting questions around parliamentary or political accountability. More transparency on day-to-day public service work can help elected representatives better hold government institutions and their ministers to account. How this plays out in practice has a lot of complexity (something for a future blog post!). [Kent Aitken](https://twitter.com/kentdaitken)’s 2017 post “[Public service anonymity is dead, long live public service anonymity](http://www.cpsrenewal.ca/2017/03/public-service-anonymity-is-dead-long.html?m=1)” is an excellent read on this, along with [more](https://twitter.com/proftomuofr/status/1450539397561028609) [recent](https://twitter.com/proftomuofr/status/1450539412194926595) [discussions](https://twitter.com/markjboots/status/1450650388470841348) in the context of provinces’ pandemic responses._
+
+<p><em><strong>Addendum 2:</strong> if your work does successfully become part of the public record, keep it there! A couple weeks ago I was a bit shocked to see that the Auditor General of Canada (my favourite Office of Parliament, along with the <abbr title="Office of the Privacy Commissioner">OPC</abbr>) removes reports from their website <a href="https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html" target="_blank">once they’re more than seven years old</a>. No doubt this is based on an information management approach put in place when computer storage was expensive (nowadays, especially for text documents and web content, it is <a href="https://hblok.net/storage/" target="_blank">approximately free</a>). But having to email to ask for a previously-public report, or to search for it <a href="https://web.archive.org/web/20180315142219/http://www1.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html" target="_blank">on the Internet Archive</a>, isn’t a great way for institutions to operate. As Tim Berners-Lee would say, <a href="https://www.w3.org/Provider/Style/URI" target="_blank">that’s not cool</a>. Be cool.</em></p>
