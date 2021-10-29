@@ -82,7 +82,7 @@ When you don’t own your software source code, you’re vulnerable to vendor lo
 
 Not even considering proprietary software licensing costs, all of these are reasons to own the custom software source code you depend on. When you’re starting a new project, using open source software products as a foundation, or existing software that you already own, is a critical way of avoiding long-term vendor lock-in. Making your own custom software code open source, so it can be [shared and re-used by other organizations](/2020/08/20/make-things-open-source-it-makes-things-better/), is also a big win for both financial stewardship and public transparency.
 
-As [Bianca Wylie](https://twitter.com/biancawylie) would say: [public money? Public code](https://twitter.com/biancawylie/status/1388692375665618950).
+As [Bianca Wylie](https://twitter.com/biancawylie) would say: [public money? Public code](https://web.archive.org/web/20210513170516/https://twitter.com/biancawylie/status/1388692375665618950).
 
 ### 4. Avoid long-term contracts
 
