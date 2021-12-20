@@ -13,8 +13,6 @@ A couple weeks ago, I was able to tune in to [FWD50](https://fwd50.com/), a Cana
 
 {{< tweet 1324023384506773508 >}}
 
-{{< tweet 1323719817367486469 >}}
-
 There’s a similar quote in the business world, along the lines of: “every company is a software company, some just don’t know it yet”. Variations of that are attributed to [Watts Humphrey](https://www.informit.com/articles/article.aspx?p=25491), [Satya Nadella](https://www.satellitetoday.com/innovation/2019/02/26/microsoft-ceo-every-company-is-now-a-software-company/), [Lew Cirne](https://blog.newrelic.com/technology/twims-prince-magic-leap-hbr-software-intel-minecraft/), and probably others. Marc Andreessen wrote a famous piece in 2011 titled “[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)” that describes how technology companies are overturning the industries that they are in – Amazon and bookstores, Netflix and video rental companies, and so on. The takeaway is that: to be a successful _company_ in 2011 (and today!) you need to be successful at software. 
 
 (What is software? I have [a helpful intro guide just for you](/2020/10/19/interfaces-data-and-math/)!)
