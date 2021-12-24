@@ -81,7 +81,7 @@ article.blog-post {
     border-left: 12px solid #ced4da;
   }
 
-  .extra-disclaimer {
+  .extra-disclaimer, .related-posts {
     background: #eee;
     padding: 1.1em 1.2em;
     margin-bottom: 1.4rem;
@@ -89,6 +89,23 @@ article.blog-post {
     p {
       margin-bottom: 0;
     }
+    p:last-child, ul:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .related-posts {
+    margin-bottom: 0;
+
+    p, ul {
+      margin-bottom: 0.5em;
+    }
+
+    ul li {
+      margin-top: 0.3rem;
+      margin-bottom: 0.3rem;
+    }
+
   }
 
   // twitter-widget {
@@ -231,6 +248,10 @@ article.blog-preview {
   margin-top: 4rem;
   margin-bottom: 1rem;
   font-size: 0.9rem;
+}
+
+.related-posts + .prev-next-links {
+  margin-top: 1.4rem;
 }
 
 .blog-footer {

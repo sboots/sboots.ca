@@ -96,3 +96,8 @@ I’d be curious how many people land on the “Error 404” page for [canada.ca
 When webpages get moved from one location to another, it’s also really valuable (dare I say, morally important) to add redirects so that people going to the old addresses can find the new ones. As Tim-Berners Lee (the [inventor of the World Wide Web](https://en.wikipedia.org/wiki/Tim_Berners-Lee)) would say: [cool URLs don’t change](https://www.w3.org/Provider/Style/URI). If you’re moving where something lives on the internet, make sure that people can immediately make their way to the new location. That’s something the Canadian government [hasn’t historically been great at](/2021/10/24/if-its-not-public-does-it-even-matter/). 
 
 What’s the takeaway? If you create vanity URLs, don’t just create one or two; create _a bunch_ that are all designed to account for different ways that people could mis-spell or mis-hear your main vanity URL. If someone ends up on an “Error 404” page instead of your content, they’re probably going to just give up instead of trying another variation of the address they typed in. You’ve written good stuff – help people find it every possible way they can. 
+
+{{% manualrelatedposts title="More public service tech tips:" %}}
+- [Paste without fonts and formatting](/2020/09/18/public-service-tech-tip-paste-without-fonts-and-formatting/)
+- [Please use headings](/2020/01/14/public-service-tech-tip-please-use-headings/)
+{{% /manualrelatedposts %}}
