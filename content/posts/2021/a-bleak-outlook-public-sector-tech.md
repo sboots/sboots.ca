@@ -57,6 +57,8 @@ If someone says “we use an agile process”, what used to be a vote of confide
 
 {{< tweet 1468224595027181586 >}}
 
+{{< tweet 1471907799416197120 >}}
+
 Essentially: government IT teams have widely adopted the _words_ that fast-paced private sector tech teams use, without actually adopting their [ways of working](https://public.digital/2018/10/12/internet-era-ways-of-working). You virtually _can’t_ work in an iterative, user research-led, shipping-daily kind of way when you have to write 10 times more compliance documentation (as Paul [describes](https://federal-field-notes.ca/articles/2021-12-15-paperweight/#public-words)) than actual content and software code. 
 
 The only solution [is to do less](https://sboots.ca/2020/01/28/introducing-agile-to-large-organizations-is-a-subtractive-process-not-an-additive-one/) of the performative IT paperwork long expected from established processes and gatekeepers, and that’s [a change to organizational power dynamics](https://twitter.com/worldofabe/status/1468291449896816644) [that can’t happen from the bottom](https://twitter.com/quidampepin/status/1445720169641357314). It needs to come from the top.
