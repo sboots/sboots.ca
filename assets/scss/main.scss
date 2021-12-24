@@ -62,7 +62,7 @@ article.blog-post {
     text-rendering: optimizeLegibility;
   }
 
-  p, blockquote, ul, ol {
+  p, blockquote, ul, ol, table {
     margin-bottom: 1.4rem;
   }
 
@@ -314,4 +314,36 @@ article.blog-preview {
     display:none;
   }
   
+}
+
+table.table {
+
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+
+    thead th {
+      vertical-align: bottom;
+      border-bottom: 2px solid #dee2e6;
+    }
+
+    td, th {
+      padding: 0.75rem;
+      vertical-align: top;
+      border-top: 1px solid #dee2e6;
+  }
+
+}
+
+table.table-bordered {
+  border: 1px solid #dee2e6;
+
+  td, th {
+    border: 1px solid #dee2e6;
+  }
+
+  thead th {
+    border-bottom-width: 2px;
+  }
 }
