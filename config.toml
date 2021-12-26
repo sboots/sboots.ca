@@ -93,7 +93,10 @@ enableRobotsTXT = true
 #DefaultContentLanguage = "en"
 
 [markup]
-  defaultMarkdownHandler = "blackfriday"
+  defaultMarkdownHandler = "goldmark"
 
-[blackfriday]
-  fractions = false
+[markup.goldmark.parser]
+  autoHeadingIDType = "blackfriday"
+
+[markup.goldmark.renderer]
+    unsafe = true
