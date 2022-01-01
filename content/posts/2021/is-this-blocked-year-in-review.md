@@ -5,6 +5,8 @@ summary: "Over the past year, departments have made a lot of progress in improvi
 images: ["/img/2021/most-and-least-improved-departments-cropped.png"]
 ---
 
+_**Update:** This is the 2020 “Is this blocked in my department” year in review. Read the [2021 year in review here](/2022/01/01/is-this-blocked-in-my-department-2021-year-in-review/)._
+
 In my post [last week](/2020/12/27/tools-that-work/) I talked about how access to tools – online services, software, and modern computers – [will affect where public servants choose to work](/2020/12/27/tools-that-work/). Given a choice of organizations to work at, talented public servants [are](https://twitter.com/CalvinR/status/1345094544195538944) [going](https://twitter.com/meganiyoung/status/1344731328487546880) [to](https://twitter.com/patlaj/status/1345448307871641600) [choose](https://twitter.com/AvalinaCorazon/status/1330718223004786690) the departments and agencies that provide them with the best enabling environment. 
 
 Over the past year, public servants across Canada adapted to working through the pandemic. Departments made [a lot of progress](/2020/05/22/crisis-bureaucracies-and-change/) in improving access to online collaboration tools and other services. But, there’s still a pretty dramatic gap **between departments** – the working environment for public servants in more restrictive departments is very different from that of their colleagues in more forward-looking departments.
