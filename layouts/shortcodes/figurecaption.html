@@ -1,0 +1,6 @@
+<figure>
+  <img src="{{ .Get "src" }}" class="img-fluid" alt="{{ .Get "alt" }}">
+  <figcaption><span class="sr-only">Caption: </span>{{ .Get "caption" }}{{ if (.Get "url") }}
+  <a href="{{ .Get "url" }}">{{ .Get "urltext" }}{{ if (.Get "urlextratext") }}<span class="sr-only">{{ .Get "urlextratext" }}</span>{{ end }}</a>{{ end }}
+  </figcaption>
+</figure>
