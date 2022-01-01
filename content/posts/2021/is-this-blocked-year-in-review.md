@@ -21,7 +21,7 @@ Traffic to both websites seems to be pretty heavily-driven by social media conve
 
 <figure>
   <img src="/img/2021/pageviews-by-month.png" class="img-fluid" alt="A stacked bar chart of website pageviews by month for both “Should it be blocked in my department” and “Is this blocked in my department”. The chart peaks in March 2020, just shy of 2,700 pageviews. Other months average around 1,000 pageviews, with a decline in the summer that then ramps up again in September and October.">
-  <figcaption><span class="sr-only">Caption: </span>Pageviews by month. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/pageviews_by_month.csv">Source data <span class="sr-only">for pageviews by month</a></figcaption>
+  <figcaption><span class="sr-only">Caption: </span>Pageviews by month. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/pageviews_by_month.csv">Source data <span class="sr-only">for pageviews by month</span></a></figcaption>
 </figure>
 
 ## Submissions by month
@@ -41,7 +41,7 @@ In 2020, crowd-sourced submissions also peaked in March, but they were actually 
 
 <figure>
   <img src="/img/2021/submissions-by-month.png" class="img-fluid" alt="A stacked bar chart of crowd-sourced data submissions to “Is this blocked” by month, across three forms: “Add a new service suggestions”, “Department-wide updates”, and “Individual service updates”. The chart peaks in March 2020 just shy of 20 submissions that month; the other months are almost all below 5 entries per month, except for January, February, and June.">
-  <figcaption><span class="sr-only">Caption: </span>Crowd-sourced data submissions by month. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/submissions_by_month.csv">Source data <span class="sr-only">for submissions by month</a></figcaption>
+  <figcaption><span class="sr-only">Caption: </span>Crowd-sourced data submissions by month. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/submissions_by_month.csv">Source data <span class="sr-only">for submissions by month</span></a></figcaption>
 </figure>
 
 In 2020, there weren’t any submissions to the “Add a new department” form.
@@ -54,7 +54,7 @@ Based on the same form data, here’s the top 20 departments by number of crowd-
 
 <figure>
   <img src="/img/2021/submissions-by-department.png" class="img-fluid" alt="A horizontal bar chart of crowd-sourced data submissions by department; the Treasury Board Secretariat is highest at 7, followed by Transport Canada, National Defence, the Canada School of Public Service, and Canada Revenue Agency all at 5 each. The other departments have less than 5 entries each.">
-  <figcaption><span class="sr-only">Caption: </span>Crowd-sourced data submissions by department. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/submissions_by_department.csv">Source data <span class="sr-only">for submissions by department</a></figcaption>
+  <figcaption><span class="sr-only">Caption: </span>Crowd-sourced data submissions by department. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/submissions_by_department.csv">Source data <span class="sr-only">for submissions by department</span></a></figcaption>
 </figure>
 
 This is based on submissions to both the “Department-wide updates” and “Individual service updates” forms.
@@ -66,7 +66,7 @@ Based on [the current dataset](https://github.com/isthisblocked/isthisblockedinm
 
 <figure>
   <img src="/img/2021/highest-and-lowest-scoring-departments.png" class="img-fluid" alt="A horizontal bar chart of the five highest and five lowest scoring departments. Transport Canada has the best score, at 112. Atlantic Canada Opportunities Agency and Parks Canada are next best. At the bottom end, the Royal Canadian Mounted Police has a score of minus 13, and FINTRAC has the second-lowest score at minus 1.">
-  <figcaption><span class="sr-only">Caption: </span>Highest- and lowest-scoring departments. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/highest_and_lowest_scoring_departments.csv">Source data <span class="sr-only">for highest- and lowest-scoring departments</a></figcaption>
+  <figcaption><span class="sr-only">Caption: </span>Highest- and lowest-scoring departments. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/highest_and_lowest_scoring_departments.csv">Source data <span class="sr-only">for highest- and lowest-scoring departments</span></a></figcaption>
 </figure>
 
 The five highest-scoring departments above ([Transport Canada](https://isthisblockedinmydepartment.ca/organization/tc/), [Atlantic Canada Opportunities Agency](https://isthisblockedinmydepartment.ca/organization/acoa/), [Parks Canada](https://isthisblockedinmydepartment.ca/organization/pc/), [Department of Justice](https://isthisblockedinmydepartment.ca/organization/justice/), and [Innovation, Science, and Economic Development Canada](https://isthisblockedinmydepartment.ca/organization/ic/)) are also the only five departments with a score above 103, which is 90% of the highest possible score. 
@@ -81,7 +81,7 @@ The departments below are the five most-improved and five least-improved departm
 
 <figure>
   <img src="/img/2021/most-and-least-improved-departments.png" class="img-fluid" alt="A bar chart that compares the 2019 and 2020 scores of the departments that improved the most and improved the least. The Department of Justice improved by +39, the Royal Canadian Mounted Police (despite its low overall score) improved by +24. The Canadian Nuclear Safety Commission went down by minus 5, and Library and Archives Canada went down by minus 4.">
-  <figcaption><span class="sr-only">Caption: </span>Most- and least-improved departments. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/most_and_least_improved_departments.csv">Source data <span class="sr-only">for most- and least-improved departments</a></figcaption>
+  <figcaption><span class="sr-only">Caption: </span>Most- and least-improved departments. <a href="https://github.com/isthisblocked/analysis/blob/main/2020/most_and_least_improved_departments.csv">Source data <span class="sr-only">for most- and least-improved departments</span></a></figcaption>
 </figure>
 
 This chart excludes departments that didn’t have any data in 2019, and departments that didn’t have any new updates submitted in 2020. 
