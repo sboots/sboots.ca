@@ -11,4 +11,4 @@ Thinking ahead to this year (“how is it 2022 already”), there’s a few big 
 
 From inside the public service, here’s what I think will be big this year… 
 
-_**[Read the full post on the FWD50 website](https://fwd50.com/updates/conversations-for-the-year-ahead/)** and [fill out the annual content survey to share your thoughts](https://bit.ly/DGSurvey2022)!_
+_**[Read the full post on the FWD50 website](https://fwd50.com/updates/conversations-for-the-year-ahead/)** [(également offert en français ici)](https://fwd50.com/fr/updates/conversations-for-the-year-ahead/) and [fill out the annual content survey to share your thoughts](https://bit.ly/DGSurvey2022)!_
