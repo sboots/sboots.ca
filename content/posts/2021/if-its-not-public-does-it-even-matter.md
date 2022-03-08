@@ -11,7 +11,7 @@ Let’s just say, regularly blogging about my day job probably would not have be
 
 Michael Karlin’s [Twitter thread this past week](https://twitter.com/supergovernance/status/1450131629406629891) was a great reflection:
 
-{{< tweet 1450132711595814913 >}}
+{{< tweet user="supergovernance" id="1450132711595814913" >}}
 
 In a society and world where misinformation is a [large-scale problem](https://www.theatlantic.com/ideas/archive/2021/10/disinformation-propaganda-amplification-ampliganda/620334/), public service habits that default to secrecy are …not great. 
 

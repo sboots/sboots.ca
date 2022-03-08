@@ -9,7 +9,7 @@ We’ve all been there, fellow public servants. You’re copying and pasting som
 
 It’s been this way for decades. The struggle is real:
 
-{{< tweet 903025471813689344 >}}
+{{< tweet user="cydharrell" id="903025471813689344" >}}
 
 In my case, I’m a little bit paranoid about misspelling people’s names when I reply to emails, so I practically always copy and paste people’s names into the introduction of my email. Outlook is more than happy to bring along the formatting, leading to situations like this:
 

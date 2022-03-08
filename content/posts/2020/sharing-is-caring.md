@@ -7,7 +7,7 @@ images: ["/img/2020/ongov-github-covid-self-assessment.png"]
 
 As governments and organizations around the world have grappled with the COVID-19 pandemic, their efforts to reuse and remix others’ work have stood out as a bright spot:
 
-{{< tweet 1242091374348062724 >}}
+{{< tweet user="jm_mcgrath" id="1242091374348062724" >}}
 
 Seeing this take place has been really encouraging. Within Canada and around the world, there’s a lot of neat ways that people and teams have been learning from and sharing with each other:
 

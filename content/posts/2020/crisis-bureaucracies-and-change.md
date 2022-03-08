@@ -25,7 +25,7 @@ In many cases, people either don’t bother applying, or aren’t successfully a
 
 ## Will it stick?
 
-{{< tweet 1245035038250618880 >}}
+{{< tweet user="StevenHepburn" id="1245035038250618880" >}}
 
 Despite some hiccups ([network capacity](/2020/04/15/corporate-networks-are-not-the-future/), for example), the federal public service has adopted a number of changes to work more effectively during the COVID-19 pandemic. This includes guidance from the Treasury Board Secretariat that [encourages the use of online collaboration tools](https://www.canada.ca/content/dam/tbs-sct/documents/CHRO-message-03-13-2020.pdf) like Slack and Google Drive in order to reduce the strain on departmental IT systems.
 

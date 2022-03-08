@@ -38,7 +38,7 @@ These aren’t the only factors involved, but they’re three that I’ve been t
 
 The federal public service has about 80 deputy ministers and associated DMs, about 400 ADMs, and several thousand executives (in various director or director general/executive director -type roles). Several hundred public servants become executives for the first time each year:
 
-{{< tweet 1460986878992207876 >}}
+{{< tweet user="APEX_GC" id="1460986878992207876" >}}
 
 On average, I’d guess that it takes about 10 to 15 years between when someone joins the public service, and when they become an executive (with a lot of exceptions, for example people being recruited directly into executive roles, or joining the public service through programs like [RPL](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/graduates/recruitment-policy-leaders.html) that place them near the top of the non-executive classifications from the beginning). 10 to 15 years is a long time [to be inadvertently insulated](https://sboots.ca/2020/05/20/the-cycle-of-bad-government-software/) from how organizations work, and how technology is used, in fields outside of government.
 
@@ -55,9 +55,9 @@ What that means, though, is: if you’re looking to work with government teams w
 
 If someone says “we use an agile process”, what used to be a vote of confidence is now a bit of a red flag:
 
-{{< tweet 1468224595027181586 >}}
+{{< tweet user="PavelASamsonov" id="1468224595027181586" >}}
 
-{{< tweet 1471907799416197120 >}}
+{{< tweet user="allenholub" id="1471907799416197120" >}}
 
 Essentially: government IT teams have widely adopted the _words_ that fast-paced private sector tech teams use, without actually adopting their [ways of working](https://public.digital/2018/10/12/internet-era-ways-of-working). You virtually _can’t_ work in an iterative, user research-led, shipping-daily kind of way when you have to write 10 times more compliance documentation (as Paul [describes](https://federal-field-notes.ca/articles/2021-12-15-paperweight/#public-words)) than actual content and software code. 
 
@@ -72,7 +72,7 @@ _(Update: Mandate letters for ministers were published the day after I wrote thi
 
 In the United States, to contrast, investing in modern public sector tech is [an active, urgent effort](https://www.nytimes.com/2021/11/24/technology/government-tech.html). US departments are investing in [a number of](https://digitalcorps.gsa.gov/) [new ways](https://techtalentproject.org/) [to bring digital talent](https://twitter.com/_loganmcdonald/status/1453124547134300164) [into the public service](https://twitter.com/GSA_DaveZ/status/1432380570382778382). The Biden administration [has made reducing administrative burdens](https://twitter.com/donmoyn/status/1463153671928258560) [a public service-wide priority](https://www.whitehouse.gov/omb/briefing-room/2021/12/13/using-technology-to-improve-customer-experience-and-service-delivery-for-the-american-people/), to make it [easier for people](https://twitter.com/allafarce/status/1470777322454372359) [to access government programs and services](https://gen.medium.com/not-so-magic-words-why-im-still-excited-about-president-biden-s-new-executive-order-on-customer-4ba868eb5d2c). Civic tech luminaries [have been hired to lead key federal departments](https://www.gsa.gov/about-us/newsroom/news-releases/senate-confirms-robin-carnahan-to-lead-gsa-06232021). It’s an exciting time.
 
-{{< tweet 1470392108339146756 >}}
+{{< tweet user="EmilieSimons46" id="1470392108339146756" >}}
 
 What would it take for this to happen in Canada? It’s not super clear. The US had the failure of healthcare.gov [as its catalyzing moment for public sector tech](https://www.wired.com/2014/06/healthcare-gov-revamp/), the moment that made political leaders start caring about technology as a thing that could make or break their most important priorities. In Canada we had [Phoenix](https://en.wikipedia.org/wiki/Phoenix_pay_system) and …nothing substantially changed. 
 

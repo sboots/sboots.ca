@@ -4,7 +4,7 @@ date: 2019-11-05T16:35:00-08:00
 summary: "A lot has happened since I originally planned to start a blog. On the plus side: I started a blog! I’m only 6 years or so late."
 ---
 
-{{< tweet 534867871403638784 >}}
+{{< tweet user="Shotgun_Jim" id="534867871403638784" >}}
 
 Let’s just say, it’s been a long time coming.
 

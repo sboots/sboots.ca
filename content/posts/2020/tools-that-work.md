@@ -7,7 +7,7 @@ images: ["/img/2020/northlight-computer-desk.jpg"]
 
 Cyd Harrell posted [a great Twitter thread last week](https://twitter.com/cydharrell/status/1341088724818436096), that friends of mine will know is definitely my kind of content:
 
-{{< tweet 1341088724818436096 >}}
+{{< tweet user="cydharrell" id="1341088724818436096" >}}
 
 The article that accompanies that thread – [Is innovation really making cities better?](https://citymonitor.ai/government/budgets/is-innovation-really-making-cities-better) – points out that city governments across the US lack even 1990s-era technology. The same is true of governments at every level here in Canada, too. Public servants do critical, life-changing work with the most rudimentary tools. 
 
@@ -21,7 +21,7 @@ What stood out, unsurprisingly in hindsight, was that my work computer was only 
 
 This tweet from Rachelle Gervais (a friend at Global Affairs) captures the kind of reaction I had, too:
 
-{{< tweet 1085724573851480065 >}}
+{{< tweet user="Rachelle2pt0" id="1085724573851480065" >}}
 
 I rejoined the federal government in 2016, after spending several years working as a software developer for a [tech startup](https://viamo.io/). Once again, the work computer I was assigned (a Surface Pro tablet with a docking station) [was a disappointment](https://twitter.com/seansworkcomput); the office suite was newer but the choice of software was essentially just as limited as my old Global Affairs desktop. Internet Explorer was, of course, still the only browser option.
 

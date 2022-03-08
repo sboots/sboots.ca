@@ -18,11 +18,11 @@ The words themselves evoke spooky, threatening outsiders, foreign spies lurking 
 
 Here in my small corner of the public service, equipping people with modern tools is [precisely what I’m here for](/2020/12/27/tools-that-work/). The things that government organizations’ CIOs and IT executives see as threats, I see as the future of how we all work. I’m not the only one:
 
-{{< tweet 1417876801305645065 >}}
+{{< tweet user="JaysonMcIntosh" id="1417876801305645065" >}}
 
-{{< tweet 1097828217988239361 >}}
+{{< tweet user="markdalgarno" id="1097828217988239361" >}}
 
-{{< tweet 1171651154238935040 >}}
+{{< tweet user="michellethong" id="1171651154238935040" >}}
 
 To that last point – everyday public servants casually buying software on a personal credit card is the kind of thing that gives CIOs nightmares. ([Centralization and standardization](/2020/02/04/perils-of-standardization/) is often one of the success metrics that IT executives are measured by. Random software purchases across the organization don’t help with that. Fortunately, _officially_ paying for software on a departmental credit card is now [easier than it was a year ago](/2021/07/11/paying-for-low-cost-cloud-services-on-a-departmental-credit-card/).) 
 

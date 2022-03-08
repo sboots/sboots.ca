@@ -42,7 +42,7 @@ In 2013, former U.S. intelligence contractor Edward Snowden [revealed](https://w
 
 Snowden’s revelations make it fairly clear that information stored anywhere in the world is potentially subject to U.S. intelligence monitoring. Ironically, the country where it’s likely the hardest for U.S. intelligence groups to monitor is the United States itself, since they would need to get [FISA court](https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court) or domestic law enforcement approval to potentially monitor American citizens:
 
-{{< tweet 1000025567427776512 >}}
+{{< tweet user="waharnum" id="1000025567427776512" >}}
 
 Foreign intelligence agencies running misinformation campaigns [reportedly use servers located in the United States](https://www.nytimes.com/2020/02/20/us/politics/russian-interference-trump-democrats.html) for this exact reason.
 

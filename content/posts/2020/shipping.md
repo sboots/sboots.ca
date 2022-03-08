@@ -78,4 +78,4 @@ If you’re curious what this looks like for IT infrastructure, Pete Hodgson’s
 
 Try as many of these as you can; any step that helps get things you work on “out the door” is a step in the right direction. It takes time to get to the level where you’re shipping, as the metaphor goes, hundreds of packages a day. But you can think of the small steps like, getting an envelope into someone’s mailbox. It might not make you a shipping mogul, but it’ll probably still make their day. 
 
-{{< tweet 1191884125692710912 >}}
+{{< tweet user="mheadd" id="1191884125692710912" >}}
