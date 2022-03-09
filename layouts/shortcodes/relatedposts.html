@@ -4,10 +4,9 @@
     </p>
 
     {{ $currentLink := .Page.RelPermalink }}
-    {{ range .Page.Params.categories }}
+    {{ range first 1 .Page.Params.categories }}
         {{ $tagTitle := . }}
-        <h4>Tag: {{ $tagTitle | title }}</h4>
-        <ol>
+        <ul>
         {{ range (index $.Site.Taxonomies.categories ($tagTitle | urlize)).Pages }}
             <li>
                 {{ if eq $currentLink .Page.RelPermalink }}
@@ -19,6 +18,6 @@
             {{ end }}
             </li>
         {{ end }}
-        </ol>
+        </ul>
     {{ end }}
 </aside>
