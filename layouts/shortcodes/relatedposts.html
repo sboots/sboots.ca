@@ -1,0 +1,24 @@
+<aside id="related-posts" class="related-posts">
+    <p>
+      <b>{{ .Get "title" }}</b>
+    </p>
+
+    {{ $currentLink := .Page.RelPermalink }}
+    {{ range .Page.Params.categories }}
+        {{ $tagTitle := . }}
+        <h4>Tag: {{ $tagTitle | title }}</h4>
+        <ol>
+        {{ range (index $.Site.Taxonomies.categories ($tagTitle | urlize)).Pages }}
+            <li>
+                {{ if eq $currentLink .Page.RelPermalink }}
+                    {{ .Title }} <small>(this page)</small>
+                {{ else }}
+                    <a href="{{ .Page.RelPermalink }}">
+                    {{ .Title }}
+                    </a>
+            {{ end }}
+            </li>
+        {{ end }}
+        </ol>
+    {{ end }}
+</aside>
