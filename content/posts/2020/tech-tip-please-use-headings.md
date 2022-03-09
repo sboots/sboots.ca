@@ -4,6 +4,7 @@ date: 2020-01-14T18:06:44-08:00
 summary: "If you’re creating documents, one of the most important things you can do is to use real headings. They’re easy to use and easy to customize, and they make a huge difference – both to people using accessibility tools and to anyone converting your document into a webpage or other format. Here’s a detailed guide on how to get started."
 subtitle: "A guide to making your documents more awesome."
 images: ["/img/2020/headings-000.png"]
+categories: ["Public service tech tips"]
 ---
 
 If you’re creating documents (which, as a public servant, you …probably do often), one of the most important things you can do is to use real headings. You’ll often see documents that are divided up by bolded or capitalized or underlined or slightly larger text, done by hand. That’s very 90’s. It’s very gauche. If you want to make great documents, please use headings.
@@ -128,6 +129,4 @@ Another great resource is the [WebAim guide to creating accessible documents in 
 
 If you use other tools (Google Docs, Pages for Mac, etc.), you can use similar steps to add real headings to your documents. Let me know if it’d be useful to add these as a future tech tip, and if you have any feedback, [don’t hesitate to reach out](mailto:sean@theboots.ca?subject=Headings)!
 
-_Other public service tech tips:_
-
-*   [Paste without fonts and formatting (September 2020)](/2020/09/18/public-service-tech-tip-paste-without-fonts-and-formatting/)
+{{< relatedposts title="More public service tech tips:" replace="Public service tech tip: " >}}

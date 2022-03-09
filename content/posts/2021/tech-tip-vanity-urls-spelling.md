@@ -3,6 +3,7 @@ title: "Public service tech tip: If you create “vanity URLs”, expect people 
 date: 2021-12-24T11:35:14-05:00
 summary: "If you’re working in government communications, you’ve probably come across “vanity URLs” before. These are easily-written-out shortcuts to webpages that typically have longer, more complex web addresses. You’ll often see them in TV or online advertisements, spoken out on radio ads, or included on billboards, posters, and other printed communications. With vanity URLs, people are frequently typing them in “by hand”, in the address bar of their web browser. That’s partly why they’re so useful, but it also means that people are likely to type them incorrectly."
 images: ["/img/2021/canada-ca-covid-vaccine-youtube.jpg"]
+categories: ["Public service tech tips"]
 ---
 
 If you’re working in government communications, you’ve probably come across “vanity URLs” before. These are easily-written-out shortcuts to webpages that typically have longer, more complex web addresses. You’ll often see them in TV or online advertisements, spoken out on radio ads, or included on billboards, posters, and other printed communications. They’re really handy. 
@@ -97,7 +98,4 @@ When webpages get moved from one location to another, it’s also really valuabl
 
 What’s the takeaway? If you create vanity URLs, don’t just create one or two; create _a bunch_ that are all designed to account for different ways that people could mis-spell or mis-hear your main vanity URL. If someone ends up on an “Error 404” page instead of your content, they’re probably going to just give up instead of trying another variation of the address they typed in. You’ve written good stuff – help people find it every possible way they can. 
 
-{{% manualrelatedposts title="More public service tech tips:" %}}
-- [Paste without fonts and formatting](/2020/09/18/public-service-tech-tip-paste-without-fonts-and-formatting/)
-- [Please use headings](/2020/01/14/public-service-tech-tip-please-use-headings/)
-{{% /manualrelatedposts %}}
+{{< relatedposts title="More public service tech tips:" replace="Public service tech tip: " >}}

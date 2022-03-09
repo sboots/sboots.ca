@@ -3,6 +3,7 @@ title: "Public service tech tip: Paste without fonts and formatting"
 date: 2020-09-18T21:46:43-07:00
 summary: "We’ve all been there, fellow public servants. You’re copying and pasting something, you hit “Paste”, and your Microsoft Word proceeds to turn the entire rest of your Word document into a bewildering mix of fonts and colours from whatever you just pasted. Fortunately, there’s an easy way to prevent this from happening, by changing the default paste settings in Microsoft Outlook and Microsoft Word."
 images: ["/img/2020/paste-005.png"]
+categories: ["Public service tech tips"]
 ---
 
 We’ve all been there, fellow public servants. You’re copying and pasting something from some obligatory government website into some obligatory government Word document. You hit “Paste”, and your Microsoft Word freezes up for a painful few seconds, then proceeds to turn the formatting of the entire remainder of your Word document into a strange and bewildering hybrid of the fonts and colours of the website you just pasted. 
@@ -83,6 +84,4 @@ A few other steps you can take to improve your Microsoft Office experience inclu
 
 The options screens for these programs can feel overwhelming, but if there’s a setting you want to change, there’s a good chance someone else has figured it out beforehand and written a how-to guide online. Don’t fight your tools! Change them to work better for you.
 
-_Other public service tech tips:_
-
-*   [Please use headings (January 2020)](/2020/01/14/public-service-tech-tip-please-use-headings/)
+{{< relatedposts title="More public service tech tips:" replace="Public service tech tip: " >}}
