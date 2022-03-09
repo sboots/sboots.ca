@@ -87,7 +87,7 @@
   {{ end }}
 
   
-  {{ if or (.Params.categories) (.Params.tags) }} <p class="blog-post-tags">{{ partial "meta-terms.html" . }}</p>{{ end }}
+  <!-- {{ if or (.Params.categories) (.Params.tags) }} <p class="blog-post-tags">{{ partial "meta-terms.html" . }}</p>{{ end }} -->
   
 
   {{ if or (ne ($.Param "sharingicons") false) (.Site.DisqusShortname) }}
