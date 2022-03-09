@@ -8,15 +8,15 @@
         {{ $tagTitle := . }}
         <ul>
         {{ range (index $.Site.Taxonomies.categories ($tagTitle | urlize)).Pages }}
-            <li>
-                {{ if eq $currentLink .Page.RelPermalink }}
-                    {{ .Title }} <small>(this page)</small>
-                {{ else }}
+            {{ if eq $currentLink .Page.RelPermalink }}
+                
+            {{ else }}
+                <li>
                     <a href="{{ .Page.RelPermalink }}">
                     {{ .Title }}
                     </a>
+                </li>
             {{ end }}
-            </li>
         {{ end }}
         </ul>
     {{ end }}
