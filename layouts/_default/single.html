@@ -62,7 +62,9 @@
     {{ if .Params.subtitle }}
       <p class="subtitle">{{ .Params.subtitle }}</p>
     {{ end }}
-    <p class="blog-post-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> <a href="https://github.com/sboots/sboots.ca/tree/main/content/{{ .File.Path }}">Version history</a></p>
+    <p class="blog-post-meta">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time>{{ if or (.Params.categories) (.Params.tags) }} {{ i18n "postedIn" }} {{ partial "meta-terms.html" . }}{{ end }}
+      <a href="https://github.com/sboots/sboots.ca/tree/main/content/{{ .File.Path }}" class="version-history">Version history</a></p>
   </header>
 
   {{ if .Params.extradisclaimer }}
