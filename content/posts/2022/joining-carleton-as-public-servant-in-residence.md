@@ -3,6 +3,7 @@ title: "Joining Carleton University as a Public Servant-in-Residence"
 date: 2022-03-16T22:36:20-04:00
 summary: "This past week I officially joined Carleton University as a Public Servant-in-Residence, working with Prof. Amanda Clarke. I’m really thrilled to be joining the School of Public Policy and Administration, and the faculty and staff have been tremendously welcoming. I’ll be joining Carleton’s School of Public Policy and Administration remotely from here in Whitehorse; when my PSIR term wraps up in the fall I’ll return to my previous work at CDS."
 images: ["/img/2022/carleton-university-2016.jpg"]
+categories: ["PSIR"]
 ---
 
 This past week I [officially joined Carleton University as a Public Servant-in-Residence (PSIR)](https://carleton.ca/sppa/people/boots-sean/), working with [Prof. Amanda Clarke](https://amandaclarke.ca/). I’m really thrilled to be joining the School of Public Policy and Administration (SPPA), and the faculty and staff have been tremendously welcoming. You can [read more about what I’ll be doing on the SPPA website](https://carleton.ca/sppa/2022/sppa-welcome-sean-boots-as-public-servant-in-residence/):
