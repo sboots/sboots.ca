@@ -3,7 +3,7 @@ title: "Suggestions for the next Minister of Digital Government"
 date: 2021-09-18T07:30:48-07:00
 summary: "Monday is election day! Back in December 2019, I wrote a set of suggestions for the next GC Chief Information Officer. In the same tradition, here are some suggestions for the next Minister of Digital Government. Digital government work – and public service reform, which is what it ultimately is – isn’t really a newsworthy election topic. It’s near and dear to my heart, though, and I’d love to see more conversations about it from public servants, politicians, and the public alike. What would you like to see the next Minister of Digital Government take on?"
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
-images: []
+images: ["/img/2021/ottawa-skyline-2018.jpg"]
 ---
 
 Monday is [election day](https://elections.ca/content2.aspx?section=vote&document=index&lang=e) – don’t forget to vote if you haven’t already! 
