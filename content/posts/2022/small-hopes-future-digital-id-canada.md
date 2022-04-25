@@ -96,4 +96,4 @@ That’s what I’d like to see: a modern, secure, and easy to use federal digit
 
 And no, I [don’t want it to use blockchain](/2021/10/04/if-your-technology-leadership-is-more-into-blockchain-than-user-needs-youre-doomed/). Come on, people. 😜
 
-_[Michael Karlin](https://twitter.com/supergovernance)’s follow-up piece – [The long road of digital identity](https://medium.com/@supergovernance/the-long-road-of-digital-identity-16e8e497c895) – is a must-read.  As always, I’d [love to hear your thoughts and reactions](https://twitter.com/sboots)!_
+_[Michael Karlin](https://twitter.com/supergovernance)’s follow-up piece – [The long road of digital identity](https://medium.com/@supergovernance/the-long-road-of-digital-identity-16e8e497c895) – is a must-read, as is [Tim Bouma](https://twitter.com/trbouma)’s [What is Digital Identity?](https://trbouma.substack.com/p/what-is-digital-identity).  As always, I’d [love to hear your thoughts and reactions](https://twitter.com/sboots)!_
