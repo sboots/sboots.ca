@@ -54,7 +54,9 @@ If I’ve logged into one government department using the future digital ID serv
 
 The CRA and ESDC [briefly had a login “bridge”](https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals/link-between-account-service-canada-account.html) that let you access your account on the other department’s secure website after logging into the first; it’s not currently available but it was a useful proof of concept. In the long run, I’d like to see a centralized, government-wide equivalent of [accounts.google.com](https://accounts.google.com/) (or the equivalents from other platform providers) – a home for my security and login settings, my connected apps and services, and a quick way of jumping to the various government services I regularly use.
 
-With that, I also want my login state to last for days (or weeks!) on my personal device, not just a few hours. If it works for Gmail (and don’t forget, people _buy houses_ via email and [DocuSign](https://www.docusign.ca/)), with all the fraud detection and cybersecurity protections they have, we can make it work for government websites too.
+Google and its peers also have a smart approach to “re-authentication”. You’re essentially signed in all the time, without needing a “remember me” checkbox or having a painfully short several-hour timeout, but if you go to change your account settings, or view your saved passwords, or some other more sensitive function, you’re asked to re-sign in again first as a safety measure. Unusual activity (like suddenly accessing your account from a network on the other side of the world) might trigger a similar re-authentication process.
+
+Using that kind of approach, I want my login state to last for days (or weeks, or months!) on my personal device, not just a few hours. If it works for Gmail (and don’t forget, people _buy houses_ via email and [DocuSign](https://www.docusign.ca/)), with all the fraud detection and cybersecurity protections they have, we can make it work for government websites too.
 
 ## 4. I want it to work with my authenticator app
 
