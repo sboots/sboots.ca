@@ -4,6 +4,9 @@
 
     {{ partial "head-meta.html" . }}
 
+    <!-- Plausible analytics testing -->
+    <script defer data-domain="sboots.ca" src="https://plausible.io/js/plausible.js"></script>
+
     {{ block "schema-dot-org" . }}
       <!-- schema.org metadata differs for Nodes and Pages -->
     {{ end }}
