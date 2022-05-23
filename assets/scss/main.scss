@@ -137,6 +137,14 @@ article.blog-post {
     margin-bottom: 0;
   }
 
+  img.img-blog-side {
+    float: right;
+    clear: both;
+    max-width: 44%;
+    margin-left: 1rem;
+    margin-top: 0.25rem;
+  }
+
   figure {
     color: #999;
     background-color: #f9f9f9;
