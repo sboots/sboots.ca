@@ -1,6 +1,6 @@
 ---
 title: "Public service heroes: Rumon Carter"
-date: 2022-05-24T21:06:23-02:30
+date: 2022-05-25T7:06:23-02:30
 summary: "I’m really thrilled to be kicking off this series of blog posts with Rumon Carter, a hero of mine for years since I first saw his work with the BC Dev Exchange. He replied immediately after I reached out, rejected the “hero” label entirely, and we chatted the following day on April 21."
 images: ["/img/2022/psh-rumon-carter-cover.jpg"]
 categories: ["Public service heroes"]
