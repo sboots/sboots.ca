@@ -26,5 +26,5 @@ And it’s also worth saying: the people I’m interviewing are a _non-exclusive
 
 There are also a ton of inspiring people who make an enormous, positive difference on the public sector from the outside: from the academic world, from change-oriented private sector companies, from civic tech and open data communities, and from non-profit and activist and political organizations. Those are all interviews I’d love to see, knowing that as a public servant they’re not all ones I could do myself.
 
-All that said! I hope you enjoy reading the interviews coming up as much as I enjoyed having them. A massive thank you to everyone who has been able to be part of this (and likewise thank you even to those who couldn’t). All the brilliant ideas are theirs; all the questionable ones are mine. Check back later this week for the first interview!
+All that said! I hope you enjoy reading the interviews coming up as much as I enjoyed having them. A massive thank you to everyone who has been able to be part of this (and likewise thank you even to those who couldn’t). All the brilliant ideas are theirs; all the questionable ones are mine. Check back [later this week for the first interview](/2022/05/25/public-service-heroes-rumon-carter/)!
 
