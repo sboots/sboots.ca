@@ -1,6 +1,6 @@
 ---
 title: "Public service heroes: Honey Dacanay"
-date: 2022-06-12T8:39:59-07:00
+date: 2022-06-12T8:40:59-07:00
 summary: "Honey Dacanay is a digital government legend in Canada – part of the founding team at the Ontario Digital Service, and an early leader of the CSPS Digital Academy. She currently works on Service Canada’s Digital & Client Data team and teaches at McMaster’s Public Policy in Digital Society program. Honey is a longtime inspiration both for her digital policy and legislation work, and for her writing and speaking on digital government. We chatted on April 25."
 images: ["/img/2022/psh-honey-dacanay-cover.jpg"]
 categories: ["Public service heroes"]
