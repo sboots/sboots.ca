@@ -56,7 +56,7 @@ The same appears to be true for public service work, likewise. Curious how an in
 
 ## Formative leadership experiences
 
-We live in a time where having an effective and responsive public service is more important than ever. From climate change to international conflict to supply-chain economic issues to a pandemic that is still [very, very much not over](https://www.theatlantic.com/health/archive/2022/03/covid-us-death-rate/626972/), governments’ abilities to _do things_ are critically important. As [Brian Kelcey](https://twitter.com/stateofthecity/status/1430193441900744709), [Paul Wells](https://paulwells.substack.com/p/and-now-the-ontario-rider-benefit), and others have written about recently, “state capacity” (or the lack of it) is something keeping policy wonks up at night. 
+We live in a time where having an effective and responsive public service is more important than ever. From climate change to international conflict to supply-chain economic issues to a pandemic that is still [very, very much not over](https://www.theatlantic.com/health/archive/2022/03/covid-us-death-rate/626972/), governments’ abilities to _do things_ are critically important. As [Brian Kelcey](https://twitter.com/stateofthecity/status/1430193441900744709), [Paul Wells](https://paulwells.substack.com/p/and-now-the-ontario-rider-benefit), [Ezra Klein](https://www.nytimes.com/2022/05/29/opinion/biden-liberalism-infrastructure-building.html), and others have written about recently, “state capacity” (or the lack of it) is something keeping policy wonks up at night. 
 
 This is particularly an issue for the federal government, as [Rishi Maharaj points out](https://twitter.com/9x19/status/1517936542542548992):
 
