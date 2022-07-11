@@ -101,3 +101,5 @@ And then again, learning with that sense of compassion. All of our analogies are
 **Really awesome of you to take the time to chat. Any last closing thoughts?**
 
 Agreed [with Rumon](/2022/05/25/public-service-heroes-rumon-carter/) that it’s less about heroics, more about: let’s create the conditions for this to work. We still don’t collaborate enough. And oh my gosh, the inertia is real. Any way that we can join up efforts to break that, I’m all for it.
+
+{{< relatedposts title="Other posts in this series:" replace="Public service heroes: " >}}

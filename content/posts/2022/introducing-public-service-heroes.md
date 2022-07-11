@@ -28,3 +28,4 @@ There are also a ton of inspiring people who make an enormous, positive differen
 
 All that said! I hope you enjoy reading the interviews coming up as much as I enjoyed having them. A massive thank you to everyone who has been able to be part of this (and likewise thank you even to those who couldn’t). All the brilliant ideas are theirs; all the questionable ones are mine. Check back [later this week for the first interview](/2022/05/25/public-service-heroes-rumon-carter/)!
 
+{{< relatedposts title="Other posts in this series:" replace="Public service heroes: " >}}

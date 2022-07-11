@@ -147,3 +147,5 @@ When you zoom in really close, it’s the little pattern of, me and you and how 
 I might just say: this notion of heroics, or, if that’s the label we’re putting on it? To me, I see so many people around me that are just, showing up, and continuing to show up every day and do all of these things. 
 
 If I can make Sean Boots’ list, I literally think anybody could. Don’t put on a cape… just keep doing what you can and [take care of your mental health while you do that](https://firebethfox.medium.com/what-im-learning-while-recovering-from-burnout-be8906a71e4a)… and [take care of each other](https://firebethfox.medium.com/reflections-on-leadership-and-mental-health-353cd4d303), because we need good people to not burn out.
+
+{{< relatedposts title="Other posts in this series:" replace="Public service heroes: " >}}

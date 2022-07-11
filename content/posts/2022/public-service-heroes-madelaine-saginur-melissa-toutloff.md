@@ -139,3 +139,5 @@ By meaningful transparency, I mean: what are the ways that we can use to actuall
 And I think that – when it comes to privacy, and really all the things that government wants to do – I think trust is essential, and that being more transparent will help build that trust. So I think, or hope, maybe, that going forward we’ll see more examples of transparency like we did with COVID Alert. Not just in my department or agency, but across government.
 
 **SB: Nice, that’s awesome. Completely agree on all of that. I’d love to see it. Thank you to you both for taking the time to chat!**
+
+{{< relatedposts title="Other posts in this series:" replace="Public service heroes: " >}}
