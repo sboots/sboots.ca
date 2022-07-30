@@ -1,6 +1,6 @@
 ---
 title: "Worth reading: Government from home & A Shared Future of Work"
-date: 2022-07-30T10:08:52-07:00
+date: 2022-07-30T7:01:10-07:00
 summary: "After more than two years where a large proportion of the federal public service switched to working from home, departments are planning to require that staff come back into the office at least a certain number of days per week. The reaction to messages and town halls from public service leaders as these plans have been announced hasn’t been pretty. Amidst all this, Michael Karlin and Steph Percival wrote a couple of pieces this past week that capture the present moment incredibly well."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: ["/img/2022/aranet4-co2-sensor.jpg"]
