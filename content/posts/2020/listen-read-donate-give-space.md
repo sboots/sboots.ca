@@ -32,8 +32,6 @@ Some of the conversations that really stood out in the past week were from fello
 
 [Glennys Egan](https://twitter.com/gleegz) kicked off a really important conversation on this last week, that’s still continuing:
 
-{{< tweet user="gleegz" id="1268167187723927557" >}}
-
 {{< tweet user="Yumi_Kotani" id="1268321371848871936" >}}
 
 {{< tweet user="worldofabe" id="1268497655115718657" >}}
