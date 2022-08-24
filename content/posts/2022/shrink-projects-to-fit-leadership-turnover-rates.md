@@ -102,7 +102,7 @@ If nothing else, then as an IT leader going from one department to the next, you
 
 ### Postscript: is fast possible?
 
-Whether it’s urban infrastructure or government IT, it’s easy to get stuck thinking that years-long projects are the only possibility. When that’s all we see, it [trains us over time](/2020/05/20/the-cycle-of-bad-government-software/) to expect that that’s normal. 
+Whether it’s urban infrastructure or government IT, it’s easy [to get stuck thinking](https://twitter.com/itsahousingtrap/status/1562201625757765632) that years-long projects are the only possibility. When that’s all we see, it [trains us over time](/2020/05/20/the-cycle-of-bad-government-software/) to expect that that’s normal. 
 
 One of my favourite webpages on the internet is [Patrick Collison](https://twitter.com/patrickc)’s [Fast](https://patrickcollison.com/fast). Patrick is the CEO of [Stripe](https://en.wikipedia.org/wiki/Stripe,_Inc.), and [his list of fast projects](https://patrickcollison.com/fast) is a great reminder of what’s possible. The Empire State Building was built in 410 days. The 2,700km Alaska Highway was built in 234 days. The Eiffel Tower was built in 2 years and 2 months. The first US jet fighter was designed and built in 143 days. The first version of the Unix operating system was written in 3 weeks. 
 
