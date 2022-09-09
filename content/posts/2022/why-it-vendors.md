@@ -26,4 +26,4 @@ As an initial step in my research work, I’m looking forward to analyzing [publ
 
 IT services and software [play a large and under-examined role](/2020/11/16/government-is-actually-a-big-tech-company/) in how governments deliver services to the public. Given the role that IT vendors frequently play in designing, delivering, and operating these services, I think there’s a lot of value in examining the sector in more detail. I’m really looking forward to it.
 
-If you have thoughts or suggestions about things I should look at or people I should talk to, I’d love to hear them! You can reach me during my Public Servant-in-Residence term by emailing [sean.boots@carleton.ca](mailto:sean.boots@carleton.ca), or (as usual!) sending me a message [on Twitter](https://twitter.com/sboots). Thanks so much!
+If you have thoughts or suggestions about things I should look at or people I should talk to, I’d love to hear them! You can reach me during my Public Servant-in-Residence term by [sending me an email](mailto:sean@theboots.ca), or (as usual!) sending me a message [on Twitter](https://twitter.com/sboots). Thanks so much!
