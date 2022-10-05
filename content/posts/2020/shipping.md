@@ -4,6 +4,7 @@ date: 2020-01-10T20:02:44-08:00
 summary: "One of the terms that comes up often in digital government work is “shipping”, or getting things out the door. Let’s take a look at why shipping is important, why it’s so hard, and ways to make it easier."
 subtitle: "It is very, very difficult to “get things out the door” in government"
 images: ["/img/2020/shipping-ship-vancouver.jpg"]
+featured: true
 ---
 
 One of the terms that comes up often in digital government work is “shipping”. In a word, it captures a lot of what it means to improve government IT, and why it’s difficult.

@@ -5,6 +5,7 @@ date: 2021-07-11T22:15:59-07:00
 summary: "One of the themes of this blog is that access to modern tools has a huge impact on public servants’ productivity and effectiveness. There are a lot of online tools available today – for team collaboration, for communications, for data analysis, for software development – that historically haven’t been easy for public servants to access. Paying for paid tiers of these tools has been even more difficult, but thanks to last week’s new Directive on Management of Procurement, it just got easier."
 extradisclaimer: "This blog post is not official policy advice. Your department’s internal accounting processes may vary."
 images: []
+featured: true
 ---
 
 One of the themes of this blog is that [access to modern tools has a huge impact on public servants’ productivity and effectiveness](/2020/12/27/tools-that-work/). This is true for public servants all across government departments, not just those that are working in explicitly “digital” teams and roles.

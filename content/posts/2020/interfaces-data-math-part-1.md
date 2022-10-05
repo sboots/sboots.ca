@@ -4,6 +4,7 @@ date: 2020-10-19T22:13:50-07:00
 subtitle: "Or, a friendly introduction to computer software for public servants"
 summary: "It’s often hard to have conversations about public policy and technology where people on both sides of the discussion understand each other. Computer software – the programming code that makes software programs and systems work – can seem impossibly complicated and intimidating to people outside the tech industry. This post gives an introduction to ideas like interfaces, data, and math. These categories can help make computer software simpler and easier to understand, and as a result, help public servants make better technology decisions."
 images: ["/img/2020/interfaces-data-math-p1-001.png"]
+featured: true
 ---
 
 Back in January, I wrote a post about [bridging the technology-policy gap](/2020/01/02/bridging-the-technology-policy-gap/). By and large, no one is teaching public policy students and practitioners how to be technology-savvy, or teaching computer scientists and IT specialists how to be government-savvy. 

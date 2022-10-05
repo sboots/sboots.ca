@@ -5,6 +5,7 @@ date: 2022-06-23T8:23:45-07:00
 summary: "When I rejoined the federal government in 2016, our team’s desks were around the corner from a large team working on a financial management transformation project – the walls of their area covered in mesmerizing, plotter-printed posters. This was my first introduction to enterprise architecture. If you haven’t worked in government IT, it can be hard to describe, but if you’ve seen business capability models, target state architectures, TOGAF frameworks, or architecture review committee presentation decks, hello. You’ve met enterprise architecture."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my current or past employers."
 images: ["/img/2022/architecture-drawing-bear-creek-2021.jpg"]
+featured: true
 ---
 
 _I wrote this piece in April, suggested by some friends who used to work as enterprise architects. Agree or disagree with the post? I’d [love to hear your feedback](https://twitter.com/sboots)!_

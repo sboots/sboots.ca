@@ -4,6 +4,7 @@ date: 2022-04-21T10:18:59-07:00
 summary: "It’s April, so like most Canadians, I spent a lot of time logging in to the Canada Revenue Agency and other government websites. The CRA’s login system is better than most of the 60 or so separate login systems used by federal government departments, but it’s still not very user-friendly. Fortunately, there’s a commitment to improve this – “a common and secure approach for a trusted digital identity platform” – in the most recent mandate letter for the President of the Treasury Board. With that on the radar, here’s my own small hopes for what I’d like to see for digital ID in Canada."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: ["/img/2022/cra-login-please-wait.png"]
+featured: true
 ---
 
 It’s April, so like most Canadians, I spent a lot of time logging in to the Canada Revenue Agency (CRA) and other government websites. As an experience, it was _okay_ – the CRA’s login system is better than that of most federal government departments (and there are [almost 60 separate login systems](https://www.canada.ca/en/government/sign-in-online-account.html), at least!). 

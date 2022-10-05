@@ -3,6 +3,7 @@ title: "Make things open source, it makes things better"
 date: 2020-08-20T16:50:25-07:00
 summary: "The apps and services that underpin government programs should practically always be open source. Public trust in things like the EI system, filing taxes, or as a public servant, getting paid, would be higher if people could see the inner workings and understand that software is working as it should. Open source code reduces vendor lock-in, improves the quality and interoperability of software, and increases public trust. What’s not to love?"
 images: ["/img/2020/make-things-open-posters.jpg"]
+featured: true
 ---
 
 One of [GDS](https://gds.blog.gov.uk/)’s [early design principles](https://webarchive.nationalarchives.gov.uk/20151019114229/https://www.gov.uk/design-principles) was “Make things open: it makes things better.” I printed off [a poster of it](https://github.com/alphagov/govdesign/blob/master/Poster_Make%20things%20open.pdf) that I would stick on the wall near my desk, back when our [then-tiny team](https://digital.canada.ca/2017/07/28/think-big-start-small/) moved desks every couple months. 

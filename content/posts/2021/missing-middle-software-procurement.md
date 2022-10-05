@@ -4,6 +4,7 @@ date: 2021-11-20T17:01:36-07:00
 summary: "This year’s FWD50 conference was a couple weeks ago. It’s home to a lot of interesting conversations on technology, governments, and society. One new event this year was a game show-inspired “pitch competition”, where public servants pitched ideas for policy changes that could better enable digital work in government. My pitch was about procurement. And also about urban planning, as a way of combining two of my favourite topics. Here’s a recap of the presentation."
 extradisclaimer: "The views expressed here are my own. Products and companies mentioned below are examples and not endorsements."
 images: ["/img/2021/missing-middle-buildings.jpg"]
+featured: true
 ---
 
 This year’s [FWD50 conference](https://fwd50.com/) was a couple weeks ago. Like previous years, it’s home to a lot of interesting conversations on technology, governments, and society; it also serves as [group](https://twitter.com/CalvinR/status/1192560831248158722) [therapy](https://twitter.com/acroll/status/1456256783685615624) for public servants who are trying to change their slow-moving organizations. I wrote [some reflections on it last year](/2020/11/16/government-is-actually-a-big-tech-company/). Both last year and this year, the conference took place online, and the FWD50 crew [sets the bar very high](https://twitter.com/sboots/status/1456629042111733762) for running virtual conferences that are genuinely interesting and fun to be a part of. 

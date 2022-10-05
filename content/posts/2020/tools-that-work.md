@@ -3,6 +3,7 @@ title: "Tools that work"
 date: 2020-12-27T18:26:31-07:00
 summary: "Cyd Harrell posted a great Twitter thread last week, resolving that “all government offices need fast broadband, fast wi-fi, productivity and collaboration software suites that play well with others, and the building blocks of modern website building and digital communication. Just like they need walls, a roof, and HVAC.” Public servants do critical, life-changing work with the most rudimentary tools. Equipping them with better tools is a big part of own public service mission."
 images: ["/img/2020/northlight-computer-desk.jpg"]
+featured: true
 ---
 
 Cyd Harrell posted [a great Twitter thread last week](https://twitter.com/cydharrell/status/1341088724818436096), that friends of mine will know is definitely my kind of content:

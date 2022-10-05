@@ -5,6 +5,7 @@ summary: "If you’re working on IT or service delivery projects in public secto
 subtitle: "Rule number two: see rule number one"
 extradisclaimer: "Views expressed here are my own, and don’t necessarily reflect the views of the Government of Canada. Products mentioned below are examples and not endorsements."
 images: ["/img/2021/saskatoon-highway-exit.jpg"]
+featured: true
 ---
 
 

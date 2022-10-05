@@ -3,6 +3,7 @@ title: "Three suggestions for the next President of SSC"
 date: 2022-04-06T10:21:22-07:00
 summary: "In early 2022, the President of Shared Services Canada (SSC) announced that he was retiring. In what has accidentally become a tradition, below are some suggestions for the next president to take on the role: start moving to zero trust networking and away from perimeter defence; enable the rapid, secure adoption of third-party software-as-a-service tools at scale; and incrementally make SSC services optional instead of mandatory."
 images: ["/img/2022/ssc-slater-st-2016.jpg"]
+featured: true
 ---
 
 _Update: Last week the prime minister [announced new senior leadership at SSC](https://pm.gc.ca/en/news/news-releases/2022/04/01/prime-minister-announces-changes-senior-ranks-public-service). All the best to the incoming team!_

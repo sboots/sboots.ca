@@ -3,6 +3,7 @@ title: "How many Government of Canada services are online from start to finish?"
 date: 2021-10-12T23:29:07-07:00
 summary: "Getting accurate data on how many government services can be completed online is challenging. Even determining how many government services exist across a range of departments and agencies is often a struggle. Fortunately, in 2020, the Office of the CIO published a comprehensive update to the GC Service Inventory open data set – it’s really excellent. As a recent civic tech project, I put together an analysis website that dives into how many of those services can currently be completed online from end-to-end."
 images: ["/img/2021/end-to-end-services-screenshot.png"]
+featured: true
 ---
 
 _**Update:** In December 2021, I updated the methodology [used in the end-to-end services analysis](https://end-to-end-services.github.io/#methodology). Following the update, services that are all “not applicable” are no longer counted as fully online. Overall, [19% of Government of Canada services are online end-to-end](https://end-to-end-services.github.io/), instead of 45%. This more closely matches [the official methodology recently published on the GC InfoBase website](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#infographic/gov/gov/services/.-.-(panel_key.-.-'services_digital_status))._

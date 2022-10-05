@@ -4,6 +4,7 @@ date: 2020-09-16T18:38:13-07:00
 summary: "One of the long-held norms of government IT is the perceived benefit of “commercial, off the shelf” software solutions. In government environments, being able to buy ready-to-go software products to meet government IT needs is appealing. In many cases, though, extensive customization requirements means that COTS purchases don’t live up to their promise. They’re marketed as a car and they turn out to be boxes of car parts: lots of time-consuming assembly required. Here’s a rule of thumb to tell the difference between genuine and fake COTS."
 extradisclaimer: "The views expressed here are my own. Products mentioned in the examples below are not endorsements."
 images: ["/img/2020/whitehorse-empty-pandemic-shelf.jpg"]
+featured: true
 ---
 
 One of the long-held norms of government IT is the perceived benefit of COTS solutions: “commercial, off the shelf” software. In government environments where IT [isn’t seen as a core competency](/2020/05/20/the-cycle-of-bad-government-software/), and that by and large are [short on technical expertise](/2020/05/26/why-are-there-so-few-senior-developers-in-government/), being able to buy ready-to-go software products to meet government IT needs is an appealing approach.

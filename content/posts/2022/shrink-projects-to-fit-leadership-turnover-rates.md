@@ -3,6 +3,7 @@ title: "Shrink projects to fit leadership turnover rates"
 date: 2022-08-09T13:15:19-07:00
 summary: "A few years back I remember reading about bike infrastructure improvements in Seville, Spain, where the city had built 80 kilometres of protected bicycle lanes in 18 months. The key to Seville’s approach was starting and finishing the infrastructure project within a single mayoral political term. Government IT projects could learn a lot from this. DM and ADM turnover is estimated at 1-3 years in the same department; most major IT projects outlast the executives that are nominally in charge of them. With no one dedicated at the helm, a project’s own momentum can easily carry it along a failure-bound trajectory for years."
 images: ["/img/2022/large-it-projects-list-2022.png"]
+featured: true
 ---
 
 A few years back I remember reading about [bike infrastructure improvements in Seville, Spain](https://medium.com/vision-zero-cities-journal/how-seville-became-a-city-of-cyclists-fba864b4be66), where the city had built 80 kilometres of protected bicycle lanes in 18 months. (Ottawa’s [protected bike lanes on Laurier Ave. and O’Connor St.](https://ottawa.ca/en/parking-roads-and-travel/active-transportation/active-transportation-planning/completed-projects) are 1.5 and 2 kilometres respectively). The key to Seville’s approach was starting and finishing the infrastructure project _[within a single mayoral political term](https://www.c40knowledgehub.org/s/article/How-to-achieve-a-walking-and-cycling-transformation-in-your-city?language=en_US)_. 

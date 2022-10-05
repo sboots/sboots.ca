@@ -5,6 +5,7 @@ date: 2022-08-24T7:30:43-07:00
 summary: "Short feedback loops are the secret to good software (and good IT projects), and years-long, pre-planned waterfall approaches are a fundamental barrier to achieving them. In the Canadian government, “project gating” is the main form this takes, where departmental teams seek approval (one gate at a time) to initiate a project, to get funding, to outline a project plan, an implementation plan, and a variety of other steps that eventually lead to building or procuring an IT system. Project gating is a relic from 25 years ago, and it’s past time for us to leave it behind."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: ["/img/2022/whitehorse-obstruction-sign-2022.jpg"]
+featured: true
 ---
 
 There’s been a lot of interest in [adopting agile practices](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) in the Canadian government over the past few years. Being more incremental, iterating more quickly, and [breaking projects into smaller pieces](/2022/08/09/shrink-projects-to-fit-leadership-turnover-rates/) are all really valuable approaches. 

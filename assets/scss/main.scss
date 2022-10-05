@@ -275,6 +275,18 @@ article.blog-preview {
   }
 }
 
+#recommended-posts-sidebar {
+
+  li {
+    display: block;
+  }
+
+  li:nth-child(n+6) {
+    display: none;
+  }
+
+}
+
 // Media queries
 
 // Larger sizes here

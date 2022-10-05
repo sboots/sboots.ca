@@ -5,6 +5,7 @@ slug: "government-is-actually-a-big-tech-company"
 date: 2020-11-16T20:50:15-07:00
 summary: "A couple weeks ago, I was able to tune in to FWD50, an annual Canadian digital government conference.  One of the themes from the first day onwards was this concept, that government institutions are tech companies without realizing it. Just like “every company is a software company”, public sector institutions need to think differently about how they work, and what leadership they have, in order to be successful today."
 images: ["/img/2020/fwd50-alistair-julia-interview.jpg"]
+featured: true
 ---
 
 A couple weeks ago, I was able to tune in to [FWD50](https://fwd50.com/), a Canadian digital government conference now in its fourth year. Although the COVID pandemic meant it took place online instead of in person, the organizing team did a really impressive job of making it engaging and thought-provoking. 

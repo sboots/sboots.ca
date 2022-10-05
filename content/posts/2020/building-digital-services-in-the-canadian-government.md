@@ -5,6 +5,7 @@ date: 2020-06-16T16:30:31-07:00
 summary: "Building digital services and IT systems in a government environment is complicated. The federal government in particular has a lot of rules to navigate, and it’s easy for these to overwhelm people and siphon their time away from designing and building user-friendly software. This short guide was written for an audience that’s used to building digital products in the private sector, to better understand what’s new and different in a government context. Enjoy!"
 extradisclaimer: "This was written on a weekend for friends in the civic tech community. This isn’t formal Government of Canada policy advice."
 images: ["/img/2020/parliament-feb-2020.jpg"]
+featured: true
 ---
 
 Back in March, some friends from the Ottawa civic tech community reached out. The pandemic was [ramping up](/2020/03/25/look-out-for-one-another/), and they were interested in volunteering their developer skills to help government departments respond to the crisis. Building digital services and IT systems in a government environment is complicated. The federal government in particular has a lot of rules to navigate, and it’s easy for these to overwhelm people and (at the least) siphon their time away from designing and building user-friendly software.

@@ -4,6 +4,7 @@ date: 2020-04-15T22:40:08-07:00
 summary: "It’s been about a month now since federal government employees have been asked to work from home. The sudden shift to a fully remote workforce quickly overwhelmed the IT infrastructure used to access corporate networks from home. The future fix to this problem is to move away from having corporate networks entirely."
 subtitle: "The future is speed and reliability, brought to you by regular internet connections"
 images: ["/img/2020/bellmar-strangeloop-tic-presentation.jpg"]
+featured: true
 ---
 
 It’s been about a month now since federal government employees have been [asked to work from home](https://www.canada.ca/en/government/publicservice/covid-19.html), to reduce the potential spread of the COVID-19 pandemic. This has been a fairly unprecedented change for the public service. 

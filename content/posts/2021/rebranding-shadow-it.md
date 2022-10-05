@@ -4,6 +4,7 @@ date: 2021-10-31T11:35:02-07:00
 summary: "“Shadow IT” is one of those terms that you hear tossed around by government IT executives on a regular basis. It’s an anxiety-ridden phrase filled with fear and insecurities. Public servants using shadow IT isn’t the actual problem, though – instead, it’s a symptom that people aren’t being equipped with the tools they need to work effectively. I think we should embrace shadow IT instead of trying to squash it. Here are some fun re-branding efforts to help with that. "
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: []
+featured: true
 ---
 
 “Shadow IT” is one of those terms that you hear tossed around by government IT executives on a regular basis. It’s an anxiety-ridden phrase filled with fear and insecurities. 

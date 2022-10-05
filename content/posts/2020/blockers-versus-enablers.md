@@ -3,6 +3,7 @@ title: "Blockers versus enablers"
 date: 2020-06-02T15:22:55-07:00
 summary: "As a public servant trying to get something approved up the hierarchy, the simplest definition of blockers versus enablers might be a “no” or “yes” at each level. In practice, however, the time it takes to receive these – and the quantity of approvals required – are bigger structural factors, regardless of how positive or supportive individual approvals are. This post dives into organizational blockers as a concept, with some potential strategies to mitigate them."
 images: ["/img/2020/making-work-visible.jpg"]
+featured: true
 ---
 
 [_Also published on Apolitical_](https://apolitical.co/en/solution_article/blockers-versus-enablers-how-to-maximise-your-time-in-the-public-service)

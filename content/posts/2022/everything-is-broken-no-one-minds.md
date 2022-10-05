@@ -4,6 +4,7 @@ date: 2022-05-17T21:40:15-02:30
 summary: "Last week, Kathryn May published an article in Policy Options titled “Speaking truth to power discouraged in public service”, based on a recent report from the Institute on Governance. It lines up with a consistent observation: public servants are frequently unable to provide fearless advice to the more senior public servants above them, let alone to political leaders and ministers several steps further removed. That has important consequences for the effectiveness of our public service work."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: ["/img/2022/wellington-kent-construction.jpg"]
+featured: true
 ---
 
 Last week, [Kathryn May](https://twitter.com/kathryn_may) published an article in Policy Options titled “[Speaking truth to power discouraged in public service](https://policyoptions.irpp.org/magazines/may-2022/report-public-service-fearful-advice/)”. The article recaps [a recent report from the Institute on Governance](https://iog.ca/projects-initiatives/top-of-mind/) that surveyed senior public servants and examined their views on trust in government in the context of current social issues.

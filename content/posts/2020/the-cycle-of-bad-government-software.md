@@ -3,6 +3,7 @@ title: "The cycle of bad government software"
 date: 2020-05-20T19:15:46-07:00
 summary: "Leah Lockhart captures in a profound way why government systems and software tend to be so bad. Bad government software – the user-hostile, complicated, enterprise systems that public servants everywhere are accustomed to – trains public servants to have low expectations of government software systems. Then, as they progress over time into leadership roles, they make IT decisions based on the low expectations they were trained to expect."
 images: []
+featured: true
 ---
 
 One of my all-time favourite blog posts is from Leah Lockhart, titled _[‘I don’t know how to use a computer!’: the stories of our most dangerous public servants](https://medium.com/@lml10/i-dont-know-how-to-use-a-computer-the-stories-of-our-most-dangerous-public-servants-9513a91e988b)_. Writing from the UK – but equally applicable to the Canadian public service – Leah captures in a profound way why government systems and software [tend to be so bad](/2020/02/25/our-services-arent-working/). 

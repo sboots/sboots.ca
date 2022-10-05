@@ -37,6 +37,19 @@
     </form>
   </section>
 
+  <!-- Featured posts (using featured:true in front matter) -->
+  <section class="sidebar-module">
+    <h4><span title="And by “recommended” I mean “featured, slightly at random”">Recommended posts</span></h4>
+    <ol class="list-unstyled list-randomize-order" id="recommended-posts-sidebar">
+{{ range (where .Site.RegularPages "Section" "in" .Site.Params.mainSections) }}
+  {{ if .Params.featured }}
+  <li><a href="{{.RelPermalink}}">{{.Title | markdownify }}</a></li>
+  {{ end }}
+{{ end }}
+    </ol>
+  </section>
+
+
   <section class="sidebar-module">
     <h4>About</h4>
     <p>I’m a public servant working on technology in government. I’m currently based at Carleton University <a href="/2022/03/16/joining-carleton-university-as-a-public-servant-in-residence/">as a Public Servant-in-Residence</a>. You <a href="https://twitter.com/sboots">probably know me from Twitter</a>.</p>

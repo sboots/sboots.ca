@@ -5,6 +5,7 @@ subtitle: "Hire good people, and trust them"
 date: 2020-10-13T19:46:23-04:00
 summary: "A few weeks ago, there was a great profile in Maclean’s of the person behind the CAFinUS Twitter account. CAFinUS is the official account for the Canadian Armed Forces working in the United States, and the account is run by Capt. Kirk Sullivan, based at the Canadian embassy in Washington DC. It’s worth a read, especially given how much of an anomaly the CAFinUS account is in comparison to practically any other Government of Canada social media account."
 images: ["/img/2020/cafinus-twitter.jpg"]
+featured: true
 ---
 
 A few weeks ago, there was [a great profile in Maclean’s](https://www.macleans.ca/politics/the-genius-behind-the-cafinus-twitter-account/) of the person behind the [CAFinUS Twitter account](https://twitter.com/CAFinUS). CAFinUS is the official account for the Canadian Armed Forces working in the United States, and the account is run by Capt. Kirk Sullivan, based at the Canadian embassy in Washington DC.

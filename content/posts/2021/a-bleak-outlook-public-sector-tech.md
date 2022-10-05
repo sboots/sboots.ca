@@ -4,6 +4,7 @@ date: 2021-12-15T20:34:17-05:00
 summary: "Paul Craig recently wrote a blog post on the massive amount of compliance documentation his team produced to launch a small public website in a Canadian government department. It’s a must-read lens into the current shape of public sector tech work in Canada. We have a public service executive class that isn’t equipped to lead technology initiatives. We’ve got widespread adoption of digital government words, but not digital government implementation. And we’ve got a political class that is too busy with other things to care about the public service’s tech capacity. Let’s talk about it."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: ["/img/2021/ottawa-office-boardroom.jpg"]
+featured: true
 ---
 
 [Paul Craig](https://twitter.com/pcraig3) (one of the best developers I know) recently [wrote a blog post on the massive amount of compliance documentation](https://federal-field-notes.ca/articles/2021-12-15-paperweight/) his team produced to launch a small public website in a Canadian government department. It’s [a must read](https://federal-field-notes.ca/articles/2021-12-15-paperweight/):

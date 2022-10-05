@@ -4,6 +4,7 @@ date: 2021-01-12T22:34:00-07:00
 summary: "Lee Berthiaume from the Canadian Press wrote a fascinating article last week, based on an internal Department of National Defence report on IT support. The report describes DND’s IT processes and systems as “out-of-date and poorly supported”, and blamed “onerous levels of oversight”. This is a persistent problem across federal government departments."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: ["/img/2021/dnd-it-support-canadian-press-article.png"]
+featured: true
 ---
 
 Lee Berthiaume from the Canadian Press wrote [a fascinating article last week](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/poor-it-support-hurting-canadian-military-operations-internal-review-finds), based on an internal Department of National Defence report on IT support. The report looks at DND’s IT processes and systems, describing them as “not only inefficient and expensive to maintain, but also often out-of-date and poorly supported”. From my vantage point this is [consistently a problem across the federal government](/2020/02/25/our-services-arent-working/) writ large.

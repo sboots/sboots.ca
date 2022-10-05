@@ -4,6 +4,7 @@ date: 2020-02-04T21:34:46-05:00
 subtitle: "“We only use Oracle databases from 2004. They’re a good vintage.”"
 summary: "If you work in government IT, you’ve probably heard this before: “We’ve got one standard database product.” “We’ve standardized on this programming language.” “This software is our standard for case management systems,” and so on. There are a number of important downsides, though, to standardization efforts: one size all ends up fitting nothing well, they act as a placeholder for more informed technical discussions, and they end up being a barrier to continual change."
 images: []
+featured: true
 ---
 
 If you work in government IT, you’ve probably heard this before. “We’ve got one standard database product.” “We’ve standardized on this programming language.” “This software is our standard for case management systems,” and so on.

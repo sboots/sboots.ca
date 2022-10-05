@@ -4,6 +4,7 @@ date: 2020-02-25T21:48:19-08:00
 subtitle: "A call to arms, or, why this work matters"
 summary: "The government’s legacy IT systems have been in the news recently. Within the government, there’s a growing concern that these systems – software code and mainframe computers that underpin critical services and benefit programs for millions of Canadians – could fail unexpectedly at any moment. The complicating factor in discussions around legacy IT systems (and their need for replacement) is that many of the services that these systems support don’t work well as-is."
 images: []
+featured: true
 ---
 
 The government’s legacy IT systems have been in the news recently. There’s a great set of articles by Jordan Press, from [November](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/documents-give-glimpse-of-challenges-to-digitizing-federal-services) and [February](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871), and a [follow-up radio interview](https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/15758724-outdated-federal-computer-systems) that’s worth a listen. Within the government, as these articles show, there’s a growing concern that these systems – software code and mainframe computers that underpin critical services and benefit programs for millions of Canadians – could fail unexpectedly at any moment. 

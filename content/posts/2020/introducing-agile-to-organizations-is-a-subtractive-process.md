@@ -4,6 +4,7 @@ date: 2020-01-28T18:16:09-05:00
 summary: "“Agile” gets mentioned enough in digital government work that can sometimes seem like it applies to everything: is anything not agile? But there’s a deeper meaning behind it that’s easy to miss: adding agile practices without removing established, “waterfall” processes that slow a team down is a recipe for frustration. Being agile means choosing one approach over another, and deliberately prioritizing what you spend your time on."
 subtitle: "As some great UK digital government folks would say: do less, but do it better"
 images: []
+featured: true
 ---
 
 Working in technology in government, the word “agile” comes up a lot. Usually it’s in the context of agile software development, but it gets applied pretty broadly to other parts of digital government work. I get emails on a semi-regular basis from companies pitching agile training certifications or agile coaching. 

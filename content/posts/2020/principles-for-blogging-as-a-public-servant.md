@@ -5,6 +5,7 @@ summary: "“Working in the open” – blogging and talking about your work on
 subtitle: "Or, how to criticize a thing that you love"
 extradisclaimer: "As the saying goes: I am not a Values and Ethics advisor, and more importantly, I am not *your* Values and Ethics advisor. Use your best judgment."
 images: []
+featured: true
 ---
 
 If you’re a public servant who is thinking about blogging about your work, you should do it! I say that with more enthusiasm than credibility since I only, well, started [a few months ago](/2019/12/17/moving-to-the-yukon/). Public servants across Canada and around the world have been doing this for years, and I really appreciate how much I’ve been able to learn from other people writing about their perspectives and experiences in government. 

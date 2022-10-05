@@ -4,6 +4,7 @@ date: 2020-03-29T22:11:28-07:00
 summary: "One of the most persistent myths in Canadian government IT is that storing your data in Canada protects it against eavesdropping or interception by foreign governments. If someone on your government team has asked to use a new online tool and your reaction is, “no, you can’t, because it’s hosted in the United States,” this article is for you."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: ["/img/2020/downtown-boston-2019.jpg"]
+featured: true
 ---
 
 One of the most persistent myths in Canadian government IT is that storing your data in Canada protects it against eavesdropping or interception by foreign governments. Storing your information in data centres geographically located in Canada, the claim goes, or using cloud services that are fully hosted in Canada, safeguards you against your data being intercepted by, say, U.S. intelligence agencies.

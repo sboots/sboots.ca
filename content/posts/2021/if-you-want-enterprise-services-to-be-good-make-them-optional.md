@@ -4,6 +4,7 @@ date: 2021-02-14T20:52:15-07:00
 summary: "Enterprise IT systems in government are often enforced as mandatory solutions that other teams and departments are required to use. In comparison, leading tech companies turn their internal systems into external products, to see if they are commercially viable. Making enterprise services optional creates feedback loops, generates adoption-rate data, and incentivizes continuous improvement."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: []
+featured: true
 ---
 
 “Enterprise” is a fascinating term, in that it’s widely (and aspirationally) used in government and organizational IT, and also [made](https://twitter.com/waldojaquith/status/709890615765549056) [fun](https://twitter.com/allenholub/status/1349842056852738049) [of](https://twitter.com/kelseyhightower/status/1359176847481708545) frequently by digital transformation advocates. Generally speaking it means: systems and services that are used across an entire organization, rather than just one specific program or team. In government settings, “enterprise” often means services that are used across the entire government, or, efforts to make that a reality.

@@ -5,6 +5,7 @@ date: 2022-08-31T20:42:26-07:00
 summary: "This week I’m coming up to the end of my Public Servant-in-Residence term at Carleton University. It’s been an absolute dream to work with Prof. Amanda Clarke and the School of Public Policy and Administration. A key focus of our research work over the past few months has been analyzing Government of Canada procurement contracts as a way of exploring how the federal government spends money on information technology. As part of this work, we’re excited to launch govcanadacontracts.ca, a research website that helps examine procurement trends across government."
 images: ["/img/2022/govcanadacontracts-core-table.png"]
 categories: ["PSIR"]
+featured: true
 ---
 
 (The answer is: [about $4.6 billion dollars](https://govcanadacontracts.ca/categories/information_technology/) in the most recent fiscal year.)
