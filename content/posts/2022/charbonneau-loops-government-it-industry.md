@@ -4,6 +4,7 @@ date: 2022-10-12T17:12:24-07:00
 summary: "Dan Hon’s newsletter had a great anecdote last week about the NYC Sanitation Department hiring McKinsey to study and design a procurement for trash containerization. It reminded me of a pattern that I’ve been meaning to write about for a while: “Charbonneau Loops” where the same companies are sometimes overseeing, and sometimes overseen, by their peers in the same industry. This happens when public sector organizations don’t have enough internal capacity to provide oversight directly, and they’re a recipe for problematic public sector outcomes."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my team or my employer."
 images: ["/img/2022/multilane-highway-boston-2019.jpg"]
+featured: true
 ---
 
 [Dan Hon](https://twitter.com/hondanhon)’s newsletter (which is excellent) had [a great anecdote last week](https://newsletter.danhon.com/archive/s12e59-look-the-disney-thing-weak-signals-zoom/) about the New York City Sanitation Department hiring McKinsey to [study and design a procurement for trash containerization](https://nyc.streetsblog.org/2022/10/03/exclu-sanitation-department-hires-mckinsey-for-containerization-study/). Which is exciting ([urban](/2022/08/09/shrink-projects-to-fit-leadership-turnover-rates/) [planning](/2021/11/20/the-missing-middle-in-software-procurement/)!) but also, as Dan says, [alarming](https://newsletter.danhon.com/archive/s12e59-look-the-disney-thing-weak-signals-zoom/):
