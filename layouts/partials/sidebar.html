@@ -41,9 +41,12 @@
   <section class="sidebar-module">
     <h4><span title="And by “recommended” I mean “featured, slightly at random”">Recommended posts</span></h4>
     <ol class="list-unstyled list-randomize-order" id="recommended-posts-sidebar">
+{{ $currentPage := . }}
 {{ range (where .Site.RegularPages "Section" "in" .Site.Params.mainSections) }}
   {{ if .Params.featured }}
-  <li><a href="{{.RelPermalink}}">{{.Title | markdownify }}</a></li>
+    {{ if not (eq $currentPage.RelPermalink .RelPermalink) }}
+    <li><a href="{{.RelPermalink}}">{{.Title | markdownify }}</a></li>
+    {{ end }}
   {{ end }}
 {{ end }}
     </ol>
