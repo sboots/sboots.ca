@@ -7,7 +7,7 @@ images: ["/img/2020/ongov-github-covid-self-assessment.png"]
 
 As governments and organizations around the world have grappled with the COVID-19 pandemic, their efforts to reuse and remix others’ work have stood out as a bright spot:
 
-{{< tweet user="jm_mcgrath" id="1242091374348062724" >}}
+{{% figurecaption src="/img/2022/archived-tweet-jm_mcgrath-1242091374348062724.png" alt="A tweet from John Michael McGrath saying: “The government of Ontario has updated its online self-assessment tool, which carries this little acknowledgement. The federation is working.” The screenshot contained within says, “Adapted from and with thanks to Alberta Health Services.”" url="https://web.archive.org/web/20200323153132/https://twitter.com/jm_mcgrath/status/1242091374348062724" urltext="Archived tweet from John Michael McGrath" %}}
 
 Seeing this take place has been really encouraging. Within Canada and around the world, there’s a lot of neat ways that people and teams have been learning from and sharing with each other:
 
