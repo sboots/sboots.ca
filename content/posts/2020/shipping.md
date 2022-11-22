@@ -79,4 +79,4 @@ If you’re curious what this looks like for IT infrastructure, Pete Hodgson’s
 
 Try as many of these as you can; any step that helps get things you work on “out the door” is a step in the right direction. It takes time to get to the level where you’re shipping, as the metaphor goes, hundreds of packages a day. But you can think of the small steps like, getting an envelope into someone’s mailbox. It might not make you a shipping mogul, but it’ll probably still make their day. 
 
-{{< tweet user="mheadd" id="1191884125692710912" >}}
+{{% figurecaption src="/img/2022/archived-tweet-mheadd-1191884125692710912.png" alt="A tweet from Mark Headd saying: “Evening hot take: if you can’t easily, reliably & repeatably deploy changes to production (something all too common in gov) it doesn’t matter whether you are listening to users or not. You’re not able to do anything with their input anyway. Fix your deployment pipeline first.”" url="https://web.archive.org/web/20191106012720/https://twitter.com/mheadd/status/1191884125692710912" urltext="Archived tweet from Mark Headd" %}}
