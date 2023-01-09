@@ -5,7 +5,9 @@ summary: "Over the past few weeks I’ve gradually been migrating from Twitter t
 images: ["/img/2022/twitter-headquarters-2018.jpg"]
 ---
 
-Over the past few weeks I’ve gradually been migrating from Twitter to [Mastodon](https://joinmastodon.org/), an open-source, federated social network. You can find me there at [@sboots@mastodon.social](https://mastodon.social/@sboots). At some point in the near future I’m planning to set up an individual instance – [Gersande La Flèche](https://silvan.cloud/@gersande) has [a great overview of that here](https://gersande.com/blog/i-spun-up-a-mastodon-instance-and-i-cant-believe-it-works/) – and I’ll update this post whenever I do.
+Over the past few weeks I’ve gradually been migrating from Twitter to [Mastodon](https://joinmastodon.org/), an open-source, federated social network. You can find me there at [@sboots@mastodon.sboots.ca](https://mastodon.sboots.ca/@sboots). 
+
+(In early January I moved to an individual instance – [Gersande La Flèche](https://silvan.cloud/@gersande) has [a great overview of that here](https://gersande.com/blog/i-spun-up-a-mastodon-instance-and-i-cant-believe-it-works/), and the [Fedi.Tips feed](https://mstdn.social/@feditips) has [useful instructions on how to migrate an existing account between instances](https://mstdn.social/@feditips/107939441820299376).)
 
 If you’d like to learn how to migrate from Twitter to Mastodon, [Patricia Aas](https://pleroma.patricia.no/@patricia) has [an introductory guide](https://patricia.no/2022/11/18/twitter_off_ramp.html) (including [tools to help find your Twitter friends](https://vis.social/@Luca/109253908218072543) on Mastodon, which is helpful!). [Jeremy Keith](https://mastodon.social/@adactio) has also collected [a number of useful “getting started on Mastodon” guides](https://adactio.com/journal/19650). If you’re reading this in Canada, you may want to choose an instance like [mstdn.ca](https://mstdn.ca/) that was stood up a few weeks ago and seems excellent. 
 
@@ -46,6 +48,6 @@ Twitter obviously [was not perfect](https://www.theatlantic.com/technology/archi
 
 ## Keep in touch
 
-As mentioned off the top – you can find me on Mastodon at [@sboots@mastodon.social](https://mastodon.social/@sboots). If you’re a federal public servant trying to sign up for Mastodon and running into issues, [give me a shout by email](mailto:sean@theboots.ca?subject=Mastodon) and I’d be happy to help! 
+As mentioned off the top – you can find me on Mastodon at [@sboots@mastodon.sboots.ca](https://mastodon.sboots.ca/@sboots). If you’re a federal public servant trying to sign up for Mastodon and running into issues, [give me a shout by email](mailto:sean@theboots.ca?subject=Mastodon) and I’d be happy to help! 
 
 To friends and colleagues from Twitter (and really, anyone reading this!) thanks for all the conversations over the years. It’s been a slice, and see you on happier parts of the internet from here.
