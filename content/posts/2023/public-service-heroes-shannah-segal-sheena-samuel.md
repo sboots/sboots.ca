@@ -1,6 +1,6 @@
 ---
 title: "Public service heroes: Shannah Segal & Sheena Samuel"
-date: 2023-02-15T7:58:11-07:00
+date: 2023-02-15T7:59:11-07:00
 summary: "Shannah Segal and Sheena Samuel lead the experience design and technology chapters, respectively, at the Ontario Digital Service. They’re brilliant and thoughtful leaders, and have brought experience from their careers in the private tech sector into government. Friends all across ODS speak very highly of working with them, and it was a real honour to hear about their experiences over the past nearly five years working in government. We chatted in late October."
 images: ["/img/2023/psh-shannah-sheena-cover.jpg"]
 categories: ["Public service heroes"]
