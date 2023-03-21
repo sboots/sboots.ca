@@ -1,6 +1,6 @@
 ---
 title: "Public service heroes: Nick Wise"
-date: 2023-03-21T7:58:58-07:00
+date: 2023-03-21T8:58:58-07:00
 summary: "Nick Wise is a long-time technology leader in the Canadian public service, most recently serving as the Chief Information Officer of Public Safety Canada. Previously as an executive director in the Office of the CIO, he was responsible for the GCtools team and for the small team that became the Canadian Digital Service. I’ll always be grateful for Nick’s insightful and humble style of leadership, and for his thoughtful stewardship of the teams he led. We chatted by email in October."
 images: ["/img/2023/psh-nick-wise-cover.jpg"]
 categories: ["Public service heroes"]
