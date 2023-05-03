@@ -25,6 +25,8 @@ Seems rosy so far, right? Here’s the catch…
 
 Almost all software solutions marketed at government institutions are described as COTS products. Calling your product a COTS solution is a key part of government IT sales and marketing. What happens as a result is that a lot of COTS-branded software products don’t live up to that “off the shelf” label:
 
+{{% figurecaption src="/img/2023/archived-tweet-catsprocurement-1159160677958934530.png" alt="A tweet from Cats and Procurement saying: “well we didn’t get the cots software we needed but at least we’re getting cots software with $80 zillion worth of customization built by an obscure service contractor so that’s almost as good right”" url="https://web.archive.org/web/20210607130358/https://twitter.com/CatsProcurement/status/1159160677958934530" urltext="Archived tweet from Cats and Procurement" %}}
+
 Any software product needs setting up, configuring, or tweaking to make it useful for a given goal. But the amount of customization required to make a COTS solution useful is what distinguishes genuinely-useful COTS software from “fake COTS”, that’s off-the-shelf in name only. 
 
 In 18F’s (fantastic) [De-Risking Guide](https://derisking-guide.18f.gov/), the team [writes](https://derisking-guide.18f.gov/federal-field-guide/#consider-tradeoffs-in-build-or-buy-decisions-taking-all-factors-into-consideration):
