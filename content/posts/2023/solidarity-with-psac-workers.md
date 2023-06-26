@@ -6,6 +6,8 @@ extradisclaimer: "The views expressed here are my own, and don’t represent the
 images: ["/img/2023/ottawa-river-2022.jpg"]
 ---
 
+_**Update:** As of May 1, 2023, [a tentative agreement was reached](https://www.cbc.ca/news/canada/ottawa/psac-agreement-reached-treasury-board-1.6819491) between PSAC and TBS. You can [read more about the agreement on the PSAC website](https://workerscantwait.ca/tb-rat-faq/). On June 23, [the agreement was ratified by the federal government](https://psacunion.ca/government-ratifies-collective-agreements-for-155000-psac-members) after being previously ratified by members of each bargaining group._
+
 Today the [Public Service Alliance of Canada](https://psacunion.ca/) (PSAC) [began strike activities](https://www.cbc.ca/news/canada/ottawa/psac-strike-1.6813502). With more than 155,000 participating PSAC members, it’s [one of the largest strikes](https://policyoptions.irpp.org/magazines/february-2023/public-service-prepares-strike/) in Canadian history.
 
 * PSAC’s [Frequently Asked Questions page](https://workerscantwait.ca/strike-faq/) provides details on the bargaining process and on strike activities

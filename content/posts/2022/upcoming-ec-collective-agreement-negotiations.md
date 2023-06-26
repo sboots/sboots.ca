@@ -6,6 +6,8 @@ extradisclaimer: "The views expressed here are my own, and don’t represent the
 images: []
 ---
 
+_**Update:** As of May 18, 2023, [a tentative agreement was reached between CAPE and TBS](https://www.acep-cape.ca/en/news/cape-reaches-tentative-agreement-ec-members-treasury-board). It was [ratified by EC members on June 17](https://www.acep-cape.ca/en/news/cape-ec-members-ratify-tentative-agreement). You can [read more about the agreement on the CAPE website](https://www.acep-cape.ca/sites/default/files/2023-05/CAPE%20EC%20group%20-%20Tentative%20Agreement%20current%20vs%20proposed_EN_0.pdf) (PDF). For an unofficial salary change calculator, you can use [Lucas](https://lucascherkewski.com/)’s [online Observable notebook](https://observablehq.com/d/2baff3e30f6a580d)._
+
 Later this month, collective bargaining agreement negotiations [are starting](https://www.acep-cape.ca/en/news/capes-economics-and-social-science-services-group-set-begin-negotiations) for the Economics and Social Science Services group (the [EC classification](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=4)) that I’m a member of. I’ve worked full-time in government since fall 2016 but it was only last year that I realized I should sign up for emails and updates from my union, the [Canadian Association of Professional Employees (CAPE)](https://www.acep-cape.ca/en). Local #527 represent!
 
 Being part of a union nowadays – kind of like, er, having a pension – feels like a weird and fantastic historical anachronism, but in a good way. It’s a huge privilege and I’m really grateful to the CAPE staff and volunteers who advocate on our behalf.
