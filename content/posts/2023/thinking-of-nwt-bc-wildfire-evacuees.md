@@ -1,7 +1,7 @@
 ---
 title: "Thinking of NWT and BC wildfire evacuees"
 date: 2023-08-18T11:15:01-07:00
-summary: "This past week wildfires forced the evacuation of Yellowknife, the capital of the Northwest Territories, as well as many other communities both nearby and across the territory. As of this morning an estimated 28,940 people were under evacuation orders, in a territory with a population of about 46,000 people. Meanwhile, late yesterday Kelowna, BC residents were suddenly ordered to evacuate when a major wildfire crossed Lake Okanagan. Close friends of ours there evacuated late last night on minutes’ notice. It’s an unprecedented summer of wildfires across the country, and as people wonder what will happen to their homes and communities (or how to rebuild them) it’s hard not to wonder what the future looks like."
+summary: "This past week wildfires forced the evacuation of Yellowknife, the capital of the Northwest Territories, as well as many other communities both nearby and across the territory. Meanwhile, late yesterday Kelowna, BC residents were suddenly ordered to evacuate when a major wildfire crossed Lake Okanagan. Close friends of ours there evacuated late last night on minutes’ notice. It’s an unprecedented summer of wildfires across the country, and as people wonder what will happen to their homes and communities (or how to rebuild them) it’s hard not to wonder what the future looks like."
 images: ["/img/2023/2020-mayo-vic-gold-wildfire.jpg"]
 ---
 
