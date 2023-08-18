@@ -29,7 +29,7 @@ There’s [parallels from the Fort McMurray fire in 2016 to the rapid spread of 
 As the evacuations in NWT and BC continue we’re thinking of friends and family of friends who are part of it. We’ve had a number of friends reach out asking how Heather and I are doing (which is very kind!) but we’re in the _other_ territorial capital that starts with a colour and ends with a noun. It’s confusing. There are [active wildfires across the Yukon](https://wildfires.service.yukon.ca/) but at the moment none in threatening range of Whitehorse.
 
 <figure>
-  <img src="/img/2023/ss-klondike-2023.jpg" class="img-fluid" alt="A forest of burned boreal forest trees, all blackened and without pine needles, a year after a forest fire went through the Victoria Gold access road area near Mayo, Yukon. A few small green plants are visible on a forest floor that is otherwise barren. Hills and a clear blue sky are visible behind the burned forest.">
+  <img src="/img/2023/2020-mayo-vic-gold-wildfire.jpg" class="img-fluid" alt="A forest of burned boreal forest trees, all blackened and without pine needles, a year after a forest fire went through the Victoria Gold access road area near Mayo, Yukon. A few small green plants are visible on a forest floor that is otherwise barren. Hills and a clear blue sky are visible behind the burned forest.">
   <figcaption><span class="sr-only">Caption: </span>A photo from 2020 of burned forest near Mayo, Yukon <a href="https://www.cbc.ca/news/canada/north/yukon-widlfire-season-2019-complex-1.5310233">from a 2019 wildfire</a>.</figcaption>
 </figure>
 
