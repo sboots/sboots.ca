@@ -4,6 +4,7 @@ subtitle: "With gratefulness to awesome public servants everywhere"
 date: 2024-07-03T09:48:20-07:00
 summary: "A big highlight of FWD50 this past year was being able to work with Brian Whittaker on a panel celebrating outstanding public servants. We wanted to highlight that amazing and inspiring public servants are everywhere –  working to change things often against the odds. These two videos are a small celebration of why people choose public service careers."
 images: ["/img/2024/fwd50-introductions-2023.jpg"]
+categories: ["Public service heroes"]
 ---
 
 These two videos are a small celebration of why people choose public service careers. [Brian Whittaker](https://www.linkedin.com/in/bwhtt/), [Rebecca Croll](https://www.linkedin.com/in/rebecca-croll-79976324/), and I compiled these with the help of wonderful public servant friends across Canada and the United States. They were shown at the 2023 [FWD50 conference](https://www.fwd50.com/) in Ottawa.
