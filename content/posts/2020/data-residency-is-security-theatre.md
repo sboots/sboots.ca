@@ -41,9 +41,7 @@ In 2013, former U.S. intelligence contractor Edward Snowden [revealed](https://w
 
 > a dragnet programme to scoop up digital activities direct from the servers of the biggest US tech companies; a tap on fibreoptic cables to gather huge amounts of data flowing in and out of the UK; a computer program to vacuum up phone records of millions of Americans; a codebreaking effort to crack the encryption system that underpins the safety and security of the internet.
 
-Snowden’s revelations make it fairly clear that information stored anywhere in the world is potentially subject to U.S. intelligence monitoring. Ironically, the country where it’s likely the hardest for U.S. intelligence groups to monitor is the United States itself, since they would need to get [FISA court](https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court) or domestic law enforcement approval to potentially monitor American citizens:
-
-{{< tweet user="waharnum" id="1000025567427776512" >}}
+Snowden’s revelations make it fairly clear that information stored anywhere in the world is potentially subject to U.S. intelligence monitoring. Ironically, the country where it’s likely the hardest for U.S. intelligence groups to monitor is the United States itself, since they would need to get [FISA court](https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court) or domestic law enforcement approval to potentially monitor American citizens.
 
 Foreign intelligence agencies running misinformation campaigns [reportedly use servers located in the United States](https://www.nytimes.com/2020/02/20/us/politics/russian-interference-trump-democrats.html) for this exact reason.
 
