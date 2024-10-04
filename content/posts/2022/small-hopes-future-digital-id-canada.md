@@ -67,9 +67,7 @@ A more secure approach is two-factor authentication via an authenticator app (li
 
 The highest gold standard is hardware-backed two-factor authentication, using [physical tokens like Yubikeys](https://digital.canada.ca/2019/08/15/we-take-security-seriously-why-everyone-at-cds-has-security-keys/). I’d like to see the federal government’s future digital ID service support both authenticator apps and hardware tokens, as well as provide an option to turn off text message-based authentication.
 
-That said, with any form of two-factor authentication – including the text message and phone call authentication used today – we need to think really carefully about who might be accidentally excluded, and how to make sure they can [still easily access](https://twitter.com/simonw/status/1465718293424078849) government services:
-
-{{< tweet user="heyakwan" id="1465404418526904321" >}}
+That said, with any form of two-factor authentication – including the text message and phone call authentication used today – we need to think really carefully about who might be accidentally excluded, and how to make sure they can [still easily access](https://twitter.com/simonw/status/1465718293424078849) government services.
 
 ## 5. I want to log in to provincial services through a federal ID, not the other way around
 
