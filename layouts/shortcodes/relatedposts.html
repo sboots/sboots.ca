@@ -8,7 +8,7 @@
     {{ range first 1 .Page.Params.categories }}
         {{ $tagTitle := . }}
         <ul>
-        {{ range (index $.Site.Taxonomies.categories ($tagTitle | urlize)).Pages }}
+        {{ range (index $.Site.Taxonomies.categories (replace ($tagTitle | urlize) "-" " " )).Pages }}
             {{ if eq $currentLink .Page.RelPermalink }}
                 
             {{ else }}
