@@ -10,6 +10,14 @@ copyright = "© Sean Boots. Licensed under a Creative Commons Attribution licens
 googleAnalytics = "UA-154962815-1"
 #disqusShortname = "XYW"
 
+
+# ignoreLogs = ['shortcode-twitter-getremote']
+
+[privacy]
+  [privacy.x]
+    simple = true
+
+
 enableRobotsTXT = true
 
 [sitemap]

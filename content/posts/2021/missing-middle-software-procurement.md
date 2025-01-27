@@ -11,7 +11,7 @@ This year’s [FWD50 conference](https://fwd50.com/) was a couple weeks ago. Lik
 
 One new event this year was a game show-inspired “pitch competition”, where public servants pitched ideas for policy changes or other initiatives that could better enable digital work in government. My friend and colleague [Meg Beretta](https://twitter.com/megberetta) (a digital government legend in her own right) organized and co-hosted it, and the other participants (from across federal and Ontario public service organizations) came up with really interesting and inspiring pitches. Just getting to meet and chat with them “backstage” was a real highlight:
 
-{{< tweet user="sboots" id="1456735233101926402" >}}
+{{< x user="sboots" id="1456735233101926402" >}}
 
 My pitch was about procurement. And also about urban planning, as a shameless way of combining two of my favourite topics. Below is a recap of the presentation; as always, I’d [love to hear your thoughts](https://twitter.com/sboots)!
 
@@ -118,7 +118,7 @@ And to fix it, my pitch is:
 
 Hello from year four, we’re [right on time](https://digital.canada.ca/2017/07/28/think-big-start-small/):
 
-{{< tweet user="sashax" id="941036458307076097" >}}
+{{< x user="sashax" id="941036458307076097" >}}
 
 Would the changes I’m suggesting open the door to more questionable sole-source contracts (e.g. for $99k instead of the just-under-the-limit $39k contracts you [frequently see nowadays](https://twitter.com/lchski/status/1462993237698912262))? It’s possible, although limiting it to subscription services that are already-complete deliverables (versus, $100k of “[working on an IT project](https://docs.google.com/presentation/d/1qKE9Bq_4nj7S6Ts25B9A9cgoA7a8O1behJF_oUVQrDI/edit#slide=id.g2dff399364_0_113) [that we’ll finish eventually](/2020/09/16/fake-cots-and-the-one-day-rule/)”) would certainly help. Would it enable more “shadow IT”? Yes, but [that’s a feature, not a bug](/2021/10/31/rebranding-shadow-it/). Would it make public servants more productive and effective? 100%. 
 

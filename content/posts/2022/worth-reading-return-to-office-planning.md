@@ -22,9 +22,9 @@ In addition to the [steps that government departments should take](https://mediu
 
 There are [a lot of benefits](/2022/03/05/things-id-like-to-see-in-upcoming-ec-collective-agreement-negotiations/#permanent-remote-work-options-and-access-to-modern-tools) to working from home: reduced greenhouse gas and climate change impacts (from less commuting), more flexibility for parents and caregivers when they need it, a reduction in workplace harassment and discrimination, a more adaptable working environment for people with disabilities, and a public service that more broadly represents the geographic and cultural diversity of Canada. 
 
-{{< tweet user="MrAhmednurAli" id="1550142844370927619" >}}
+{{< x user="MrAhmednurAli" id="1550142844370927619" >}}
 
-{{< tweet user="rachelmuston" id="1549816125822828578" >}} 
+{{< x user="rachelmuston" id="1549816125822828578" >}} 
 
 Even if none of these are sufficiently compelling arguments, then _purely for the sake of business continuity_ departments and public service leaders should be thinking about a geographically-dispersed future workforce.
 

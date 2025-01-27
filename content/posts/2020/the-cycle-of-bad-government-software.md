@@ -22,7 +22,7 @@ This cycle is produced (and reinforced) by a few interconnected factors:
 
 It’s not uncommon to find IT managers and leadership that have spent the entirety of their career in the public service. If they have moved between the public and private sectors, this is often limited to government-focused IT consultants and systems integrators. It’s much more rare to find IT professionals, in leadership roles in government, whose careers included stints in technology companies far removed from government. As [an early post here reflected](/2020/01/02/bridging-the-technology-policy-gap/), the more movement back-and-forth between “normal” (non-government-related) technology companies and organizations, and the public sector, the better. 
 
-{{< tweet user="sboots" id="1235259281823404034" >}}
+{{< x user="sboots" id="1235259281823404034" >}}
 
 Breaking the cycle of bad government software depends in part on **changing people’s expectations of what is acceptable** when it comes to the software and systems that public servants use. And, for that matter, what’s possible with everyday “modern” technology. The opposite of low expectations, essentially, is expecting the technology you use to be intuitive, fast, and helpful. 
 

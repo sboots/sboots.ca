@@ -10,7 +10,7 @@ We’ve all been there, fellow public servants. You’re copying and pasting som
 
 It’s been this way for decades. The struggle is real:
 
-{{< tweet user="cydharrell" id="903025471813689344" >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">does anyone ever want to paste the formatting? why is this a default? <a href="https://twitter.com/hashtag/crankypants?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#crankypants</a></p>— Cyd Harrell (@cydharrell) <a href="https://twitter.com/cydharrell/status/903025471813689344?ref_src=twsrc%5Etfw" target="_blank">August 30, 2017</a></blockquote>
 
 In my case, I’m a little bit paranoid about misspelling people’s names when I reply to emails, so I practically always copy and paste people’s names into the introduction of my email. Outlook is more than happy to bring along the formatting, leading to situations like this:
 

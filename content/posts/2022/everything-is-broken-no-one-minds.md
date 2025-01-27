@@ -21,9 +21,9 @@ Public servants’ [limited ability to communicate bad news upwards](https://med
 
 As [Daniel Blouin points out](https://twitter.com/danielblouin/status/1524383997031329792),
 
-{{< tweet user="danielblouin" id="1524383997031329792" >}}
+{{< x user="danielblouin" id="1524383997031329792" >}}
 
-{{< tweet user="danielblouin" id="1524384615477264386" >}}
+{{< x user="danielblouin" id="1524384615477264386" >}}
 
 
 ## The status quo wins again
@@ -61,9 +61,9 @@ We live in a time where having an effective and responsive public service is mor
 
 This is particularly an issue for the federal government, as [Rishi Maharaj points out](https://twitter.com/9x19/status/1517936542542548992):
 
-{{< tweet user="9x19" id="1517936542542548992" >}}
+{{< x user="9x19" id="1517936542542548992" >}}
 
-{{< tweet user="9x19" id="1517937188901515264" >}}
+{{< x user="9x19" id="1517937188901515264" >}}
 
 Being able to do things that respond to unprecedented global and social issues depends on having a public service that is able to think creatively and critically. To propose outside-of-the-box ideas, to take risks, to disagree with established processes, to make the case for faster and more nimble (delegated) decision-making. All of that, in turn, depends on public servants being able to “speak truth to power” to more senior public servants. This isn’t specific to government technology work (although its absence is [especially noticeable there](/2020/11/16/government-is-actually-a-big-tech-company/)). It’s an issue in any domain of public service work.
 

@@ -104,6 +104,6 @@ One of the critiques of agile software development that frequently comes up is t
 
 I’d love to see the project gating framework and related policy requirements be formally deprecated in the future; it’s a decades-old relic that has more downsides than benefits. [Getting rid of project gating](/2020/01/28/introducing-agile-to-large-organizations-is-a-subtractive-process-not-an-additive-one/) is asking a lot of senior public service leaders – to do things smaller and more incrementally, to trust their teams, and to [relinquish a degree of control](https://twitter.com/Code4Luke/status/1560353078330773506) (especially if they’re in an oversight or gatekeeping role that’s outside a team’s own reporting hierarchy). But the longer we keep it, the longer we’ll be stuck in a non-agile past.
 
-{{< tweet user="allenholub" id="1559587771714502660" >}}
+{{< x user="allenholub" id="1559587771714502660" >}}
 
 _Interested in learning more? [Unit 3 on Iteration](https://www.notion.so/Unit-3-Iteration-935dbdea1dd44eb59caf69fa0a263b67) of the [Teaching Public Service in the Digital Age](https://www.teachingpublicservice.digital/) publicly-available syllabus is a great, in-depth read. This [Beeck Center](https://beeckcenter.georgetown.edu/) case study – [Lessons from the Digital Transformation of the UK’s Universal Credit Programme](https://beeckcenter.georgetown.edu/lessons-uk-universal-credit/) – is also a fantastic summary of what doing this work well looks like._

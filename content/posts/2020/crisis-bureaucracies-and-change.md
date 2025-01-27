@@ -25,7 +25,7 @@ In many cases, people either don’t bother applying, or aren’t successfully a
 
 ## Will it stick?
 
-{{< tweet user="StevenHepburn" id="1245035038250618880" >}}
+{{% figurecaption src="/img/2020/archived-tweet-stevenhepburn-1245035038250618880.png" alt="A tweet from Steven Hepburn saying: “Who led the digital transformation of the federal Public Service?” with a number of empty checkboxes next to key leadership groups, and a checked checkbox next to “COVID-19”" url="https://web.archive.org/web/20200331172716/https://twitter.com/StevenHepburn/status/1245035038250618880" urltext="Archived tweet from Steven Hepburn" %}}
 
 Despite some hiccups ([network capacity](/2020/04/15/corporate-networks-are-not-the-future/), for example), the federal public service has adopted a number of changes to work more effectively during the COVID-19 pandemic. This includes guidance from the Treasury Board Secretariat that [encourages the use of online collaboration tools](https://www.canada.ca/content/dam/tbs-sct/documents/CHRO-message-03-13-2020.pdf) like Slack and Google Drive in order to reduce the strain on departmental IT systems.
 

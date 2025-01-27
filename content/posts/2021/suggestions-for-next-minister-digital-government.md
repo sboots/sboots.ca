@@ -14,9 +14,9 @@ At present, the Minister of Digital Government oversees three organizations in t
 
 Digital government work – and public service reform, more broadly, which is what it ultimately is – isn’t really a newsworthy election topic. It’s near and dear to my heart, though, and I’d love to see more conversations about it from public servants, politicians, and the public alike. 
 
-With that in mind, [here are some suggestions](#suggestions)! These are intentionally far from my day-to-day work, because, y’know, otherwise it’d be weird:
+With that in mind, [here are some suggestions](#suggestions)! These are intentionally far from my day-to-day work, because, y’know, otherwise it’d be weird.
 
-{{< tweet user="supergovernance" id="1424770193830596615" >}}
+{{% figurecaption src="/img/2021/archived-tweet-supergovernance-1424770193830596615.png" alt="A tweet from Michael Karlin saying: “Is this transition advice or what?” with a link to a meme about cloud adoption." url="https://web.archive.org/web/20210809163120/https://twitter.com/supergovernance/status/1424770193830596615" urltext="Archived tweet from Michael Karlin" %}}
 
 ## Suggestions 📝
 

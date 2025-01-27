@@ -84,7 +84,7 @@ The _goals_ of these review processes are laudable; the federal government has a
 
 The [key theme of government IT project failures](https://sara-sabr.github.io/ITStrategy/2021/05/18/problems-of-project-based-funding.html) is that the projects are _big_. If you want an IT project to succeed, scope out something useful you can do – useful to actual users – in six months or less, and for less than a couple million dollars. (Waldo Jaquith’s [tech procurement advice to the Michigan state government](https://www.youtube.com/watch?v=g-h6CtSwk30) is a great summary.) Ship it, get feedback, and then decide what to do next. If we did this in government on a regular basis, we wouldn’t need giant architecture diagrams plotter-printed and put up on the walls, and we wouldn’t need architecture review committees either.
 
-{{< tweet user="Carnage4Life" id="1535184050985771008" >}}
+{{% figurecaption src="/img/2022/archived-tweet-carnage4life-1535184050985771008.png" alt="A tweet from Dare Obasanjo saying: “I’ve always considered the existence of software architects to be an organizational failure. They are way too often people who no longer write code that have outdated ideas of how systems should work. I’m more in favor of tech lead/senior ICs who actually do the work in trenches”" url="https://web.archive.org/web/20220610085624/https://twitter.com/Carnage4Life/status/1535184050985771008" urltext="Archived tweet from Dare Obasanjo" %}}
 
 ## It’s dead, Jim
 

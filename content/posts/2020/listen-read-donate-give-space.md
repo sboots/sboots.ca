@@ -32,9 +32,9 @@ Some of the conversations that really stood out in the past week were from fello
 
 [Glennys Egan](https://twitter.com/gleegz) kicked off a really important conversation on this last week, that’s still continuing:
 
-{{< tweet user="Yumi_Kotani" id="1268321371848871936" >}}
+{{< x user="Yumi_Kotani" id="1268321371848871936" >}}
 
-{{< tweet user="worldofabe" id="1268497655115718657" >}}
+{{< x user="worldofabe" id="1268497655115718657" >}}
 
 There’s two angles on this – one is, how do we talk about the fact that government systems aren’t equitable, from the inside? Historic injustices against Indigenous people and people of colour are built into the origins of many of the institutions we work in. How do we rethink that, and create government services that are more compassionate, more inclusive, and deliberately designed to challenge and reduce inequity?
 

@@ -10,9 +10,9 @@ Years ago, I interviewed for a policy internship with one of Canada’s intellig
 
 Let’s just say, regularly blogging about my day job probably would not have been a feature. 😜
 
-Michael Karlin’s [Twitter thread this past week](https://twitter.com/supergovernance/status/1450131629406629891) was a great reflection:
+Michael Karlin’s [Twitter thread this past week](https://web.archive.org/web/20211018163804/https://twitter.com/supergovernance/status/1450131629406629891) was a great reflection:
 
-{{< tweet user="supergovernance" id="1450132711595814913" >}}
+{{% figurecaption src="/img/2021/archived-tweet-supergovernance-1450131629406629891.png" alt="A tweet series from Michael Karlin saying: “The Government of Canada has a big secrecy problem. I get it. Secrecy is easy and nuance is often lost when stuff is released without context. But it's holding us back. It's bad for our democracy. It fuels conspiracy theories. We should be falling over ourselves to proactively disclose and excited for broad participation. One more for the public servants: suggest brushing up on the Access to Information Act's exemptions, specifically what is discretionary vs not. The “shalls” and “mays” are important.”" url="https://web.archive.org/web/20211018163804/https://twitter.com/supergovernance/status/1450131629406629891" urltext="Archived tweet from Michael Karlin" %}}
 
 In a society and world where misinformation is a [large-scale problem](https://www.theatlantic.com/ideas/archive/2021/10/disinformation-propaganda-amplification-ampliganda/620334/), public service habits that default to secrecy are …not great. 
 
