@@ -22,7 +22,7 @@ What stood out, unsurprisingly in hindsight, was that my work computer was only 
 
 This tweet from Rachelle Gervais (a friend at Global Affairs) captures the kind of reaction I had, too:
 
-{{< x user="Rachelle2pt0" id="1085724573851480065" >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Welcomed a coop student last week. She is helping us with social media and some graphic design. Felt very embarrassed when IT installed Photoshop 2005 on her PC. She was 6 years old when that version came out. Come on <a href="https://twitter.com/hashtag/GC?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#GC</a>, we need better tools. <a href="https://twitter.com/hashtag/GCDigital?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#GCDigital</a></p>— Rachelle Gervais (@Rachelle2pt0) <a href="https://twitter.com/Rachelle2pt0/status/1085724573851480065?ref_src=twsrc%5Etfw" target="_blank">January 17, 2019</a></blockquote>
 
 I rejoined the federal government in 2016, after spending several years working as a software developer for a [tech startup](https://viamo.io/). Once again, the work computer I was assigned (a Surface Pro tablet with a docking station) [was a disappointment](https://twitter.com/seansworkcomput); the office suite was newer but the choice of software was essentially just as limited as my old Global Affairs desktop. Internet Explorer was, of course, still the only browser option.
 
