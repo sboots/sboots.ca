@@ -1,4 +1,5 @@
 <!-- Create <project-root>/layouts/partials/head-custom.html to overwrite this empty template and put custom code into the <head> section. -->
 
-{{ $stylemain := resources.Get "scss/main.scss" | toCSS | postCSS (dict "use" "autoprefixer") | minify }}
-<link rel="stylesheet" href="{{ $stylemain.Permalink }}">
+{{ with resources.Get "scss/main.scss" | toCSS | postCSS (dict "use" "autoprefixer") }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}
