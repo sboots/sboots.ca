@@ -5,6 +5,7 @@ extradisclaimer: "I work for the Yukon government, but not in a communications o
 date: 2025-06-09T11:58:23-07:00
 summary: "In early April, the Yukon government announced that it would no longer be using X (formerly Twitter) in response to new US tariffs taking effect. The Yukon government launched an official Bluesky account the same day. I’d love to see other Canadian jurisdictions and government organizations make the switch away from X, just like the Yukon did."
 images: ["/img/2025/screenshot-yukon-gov-bluesky-account.png"]
+slug: "the-yukon-government-switched-from-x-to-bluesky-other-canadian-governments-should-do-the-same"
 ---
 
 In early April, the [Yukon government announced that it would no longer be using X](https://yukon.ca/en/news/government-yukon-announces-phase-2-response-us-tariffs) (formerly Twitter) in response to new US tariffs taking effect. Effective immediately, Yukon’s existing government X accounts [notified followers](https://x.com/yukongov/status/1907937855890235472) that the accounts were no longer active and suggested that people follow the Yukon [on other platforms](https://yukon.ca/en/your-government/contact-and-follow-government/social-media-directory) for more recent information. 
