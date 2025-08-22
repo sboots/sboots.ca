@@ -47,9 +47,9 @@ Canadian politics – at the federal level and across provincial and territoria
 
 Public servants (and I am one) cope by [focusing on mundane processes and compliance oversight](/2023/09/26/coasian-hecks-or-when-the-people-in-charge-cant-change-things-either/). Politicians respond by riling up their core supporters with fear campaigns and dog-whistle issues (far too often at the expense of marginalized or vulnerable people). 
 
-What does this look like in practice? [This Andrew Coyne piece from 2023](https://www.theglobeandmail.com/opinion/article-the-country-is-falling-apart-why-is-the-federal-government-so-hesitant/) has lived rent-free in my head ever since I read it:
+What does this look like in practice? [This Andrew Coyne piece from 2023](https://www.theglobeandmail.com/gift/4b2e236e0f140eb5d111c577ca1e52e75b2cd9e60ea0bea238f117fbca30176f/ZGED34PZYNC77PZBBU4UBBLHBA) has lived rent-free in my head ever since I read it:
 
-> Presumably the feds can’t be happy to see provinces defying the law, treating other Canadians as second-class citizens and tearing down national institutions. But they dare not do anything to stop it, because they[lack the legitimacy](https://www.theglobeandmail.com/opinion/article-the-case-for-constitutional-crisis/): because in any confrontation with a provincial government, Ottawa is likely to emerge the loser.
+> Presumably the feds can’t be happy to see provinces defying the law, treating other Canadians as second-class citizens and tearing down national institutions. But they dare not do anything to stop it, because they[lack the legitimacy](https://www.theglobeandmail.com/gift/4b2e236e0f140eb5d111c577ca1e52e75b2cd9e60ea0bea238f117fbca30176f/2JE5L4PYGRA5JETH2JRT3LGONQ): because in any confrontation with a provincial government, Ottawa is likely to emerge the loser.
 > 
 > It’s easy to blame the Trudeau government for this state of affairs: its constant denigration of our history and symbols; its tendency to play one part of the country against another. But in truth this is a problem going back decades. To be sure, any government that was elected with just 33 per cent of the vote – the weakest mandate in our history – would have some legitimacy issues. But the broader problem is structural. The problem is that governments can be elected with 33 per cent of the vote.
 > 
