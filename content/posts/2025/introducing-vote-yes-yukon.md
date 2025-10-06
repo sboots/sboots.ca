@@ -1,7 +1,7 @@
 ---
 title: "Introducing Vote YES Yukon!"
 extradisclaimer: "Opinions here are my own and do not reflect the views of my employer. I am not affiliated with any political party or plebiscite campaign."
-date: 2025-08-20T21:38:32-07:00
+date: 2025-10-06T13:30:31-07:00
 summary: "I’m really stoked to introduce “Vote YES Yukon”, a non-partisan campaign in support of electoral reform during the current Yukon territorial election. This year, the Yukon is having a plebiscite asking if the territory should adopt ranked voting, in place of the current system of first-past-the-post. I think it’s a great opportunity to show that change is possible – to improve politics in the Yukon, and also to be an inspiration to the rest of Canada."
 images: ["/img/2025/introducing-vote-yes-yukon.jpg"]
 ---
