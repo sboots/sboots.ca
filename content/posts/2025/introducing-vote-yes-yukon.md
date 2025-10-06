@@ -14,7 +14,7 @@ I wrote a blog post in August in support of the plebiscite, and (as the saying g
 
 > Electoral reform – improving how we vote and choose our political representatives – has been talked about for years. The electoral system we use across Canada today, “first-past-the-post”, has [a lot of downsides](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening) that lead to more polarization and more extreme political views.
 > 
-Here in the Yukon, a [citizens’ assembly of everyday Yukoners](https://www.yukoncitizensassembly.ca/) looked at how our electoral system could be improved. After a lot of discussion, the citizens’ assembly [landed on ranked voting](https://www.yukoncitizensassembly.ca/ycaer-final-report-october-2024/) as the best option for the Yukon.
+> Here in the Yukon, a [citizens’ assembly of everyday Yukoners](https://www.yukoncitizensassembly.ca/) looked at how our electoral system could be improved. After a lot of discussion, the citizens’ assembly [landed on ranked voting](https://www.yukoncitizensassembly.ca/ycaer-final-report-october-2024/) as the best option for the Yukon.
 > 
 > In ranked voting, you choose your candidates in order of preference – 1, 2, 3 and so on – when you vote. It gives you more of a choice than just picking one option, and it encourages political candidates to appeal to a broader range of the Yukon population.
 > 
@@ -25,3 +25,6 @@ I think the citizens’ assembly did a great job, and it’s fun to be able to c
 And, as a non-partisan public servant, it’s fun to be able to run a non-partisan political campaign! It doesn’t happen often. We have [lawn signs getting printed](https://voteyesyukon.ca/#support-the-vote-yes-yukon-campaign) and everything. (In classic public service style, yes, I filled out [a conflict of interest disclosure](https://yukon.ca/en/human-resource-policy-conflict-interest) to be doing this.)
 
 If you live in the Yukon, [check out the different ways you can get involved in the campaign](https://voteyesyukon.ca/#support-the-vote-yes-yukon-campaign). And, thanks for considering voting YES to electoral reform! 🎉
+
+You can [find Vote YES Yukon on Facebook](https://www.facebook.com/people/Vote-Yes-Yukon-Votez-oui-Yukon/61581300344433/), or [see the French version of our campaign website here](https://votezouiyukon.ca/). Keep on being awesome!
+
