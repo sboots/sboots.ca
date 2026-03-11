@@ -3,7 +3,7 @@ title: "Generative AI vegetarianism"
 date: 2026-03-11T08:44:10-07:00
 summary: "Hello, it’s me: I’m a generative AI vegetarian. The tech industry is convinced this is the future;  I don’t want any of it, full stop. Why choose generative AI vegetarianism? Just like real-life vegetarianism, there are a bunch of good reasons."
 extradisclaimer: "The views expressed here are my own, and don’t represent the opinions of my current or previous employers."
-images: []
+images: ["/img/2026/home-cookbook-shelf-2026-03.jpg"]
 ---
 
 *For some spicier takes! Anthony Moser’s “[I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)”, Jenny Zhang’s “[choosing friction](https://phirephoenix.com/blog/2025-10-11/friction)”, Rusty Foster’s “[A.I. Isn't People](https://www.todayintabs.com/p/a-i-isn-t-people)”, or Ed Zitron’s “[The Case Against Generative AI](https://www.wheresyoured.at/the-case-against-generative-ai/)” if you have most of an afternoon to read it. Emily Bender and Alex Hanna’s [podcast interview with Paris Marx](https://techwontsave.us/episode/277_generative_ai_is_not_inevitable_w_emily_m_bender_and_alex_hanna) is also excellent.*
