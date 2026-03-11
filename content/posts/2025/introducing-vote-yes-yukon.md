@@ -6,6 +6,8 @@ summary: "I’m really stoked to introduce “Vote YES Yukon”, a non-partisan 
 images: ["/img/2025/introducing-vote-yes-yukon.jpg"]
 ---
 
+_**Update:** On November 3, 2025, Yukoners [voted YES to ranked voting](https://voteyesyukon.ca/blog/news-release-yukoners-voted-yes/). 🎉 **More than 56% of plebiscite votes [were in favour](https://electionsyukon.ca/en/plebiscite-unofficial-results) of the “yes” option**, to switch to a ranked voting system as recommend by the [Citizens’ Assembly on Electoral Reform](https://www.yukoncitizensassembly.ca/). [Read more on the Vote YES Yukon blog](https://voteyesyukon.ca/blog/)._
+
 I’m really stoked to introduce **[Vote YES Yukon](https://voteyesyukon.ca/)**, a non-partisan campaign in support of electoral reform during the current Yukon territorial election.
 
 This year, the Yukon is having [a plebiscite](https://electionsyukon.ca/en/plebiscite) asking if the territory should adopt ranked voting, in place of the current system of first-past-the-post. I think it’s a great opportunity to show that change is possible – to improve politics in the Yukon, and also to be an inspiration to the rest of Canada.
